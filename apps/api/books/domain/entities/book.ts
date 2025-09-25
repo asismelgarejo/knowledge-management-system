@@ -1,24 +1,20 @@
-// book.ts
-import { BookAuthors, BookTitle, Id } from "../value-objects";
+import { Id } from "@/shared/value-objects";
+import { BookAuthors, BookTitle } from "../value-objects";
 
-type BookProps = Readonly<{
+export type BookBaseProps = Readonly<{
   id: Id;
   title: BookTitle;
   authors: BookAuthors;
 }>;
 
-export class Book {
+export abstract class BookBase {
   #id: Id;
   #title: BookTitle;
   #authors: BookAuthors;
-  private constructor(props: BookProps) {
+  constructor(props: BookBaseProps) {
     this.#title = props.title;
     this.#id = props.id;
     this.#authors = props.authors;
-  }
-
-  static create(props: BookProps): Book {
-    return new Book(props);
   }
 
   id(): Id {
@@ -35,8 +31,8 @@ export class Book {
 
   toPrimitives() {
     return {
-      id: this.#id.toPrimitives(),
-      authors: this.#authors.toPrimitives(),
+      id: this.#id,
+      authors: this.#authors,
     };
   }
 }

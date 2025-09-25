@@ -24,7 +24,6 @@ export enum BookContentTypes {
   SECTION = "BOOK_SECTION",
 }
 
-//#region enums
 /**
  * Supported file extensions for book sources
  */
@@ -33,4 +32,22 @@ export enum BookExtensionsTypes {
   pdf = "pdf",
   /** EPUB electronic publication format */
   epub = "epub",
+}
+
+export enum BookTypes {
+  SECTION_CHAPTER = "section-chapter", // seccion-capitulo
+  CHAPTER_ONLY = "chapter-only", // solo-capitulo
+  UNIT_LESSON = "unit-lesson", // unidad-leccion
+  MODULE = "module", // modulo
+  TOPIC = "topic", // tema-topico
+  ENTRY_ARTICLE = "entry-article", // entrada-articulo
+  ACT_ARC = "act-arc", // arco-acto
+  CASE_STUDY = "case-study", // pregunta-caso-estudio
+  PRACTICE_EXERCISE = "practice-exercise", // practica-ejercicio
+  VOLUME = "volume", // volumen
+  INDEPENDENT_STORY = "independent-story", // relato-independiente
+  TIMELINE = "timeline", // cronologia
+  ALPHABETICAL = "alphabetical", // alfabetico
+  MANUAL_REFERENCE = "manual-reference", // manual-referencia
+  MAP_DIAGRAM = "map-diagram", // mapa-diagrama
 }

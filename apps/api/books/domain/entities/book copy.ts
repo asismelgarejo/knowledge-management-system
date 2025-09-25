@@ -151,12 +151,12 @@ export type BookSection = {
 export type BookContent = BookChapter | BookSection;
 
 /**
- * Properties required to create a Book instance
+ * Properties required to create a BookBase instance
  */
-export type BookProps = {
+export type BookBaseProps = {
   /** Unique identifier for the book */
   id: Id;
-  /** International Standard Book Number */
+  /** International Standard BookBase Number */
   isbn: string;
   /** The book's title */
   title: string;
@@ -181,7 +181,7 @@ export type BookProps = {
 };
 
 /**
- * Union type of all possible validation errors that can occur when creating or updating a Book
+ * Union type of all possible validation errors that can occur when creating or updating a BookBase
  */
 export type BookErrors =
   | InvalidBookTitleError
@@ -197,10 +197,10 @@ export type BookErrors =
   | InvalidBookTagError
   | InvalidBookContentError;
 
-export class Book {
+export class BookBase {
   // Unique identifier for the book - immutable once set
   readonly #id: Id;
-  // International Standard Book Number - unique book identifier
+  // International Standard BookBase Number - unique book identifier
   #isbn: string;
   // Edition number of the book (1st edition, 2nd edition, etc.)
   #edition: number;
@@ -226,10 +226,10 @@ export class Book {
   #domainEvents: BookDomainEvent[] = [];
 
   /**
-   * Private constructor to ensure Book instances are only created through the static create method
+   * Private constructor to ensure BookBase instances are only created through the static create method
    * @param props - The validated book properties
    */
-  private constructor(props: BookProps) {
+  private constructor(props: BookBaseProps) {
     this.#id = props.id;
     this.#isbn = props.isbn;
     this.#title = props.title;
@@ -245,18 +245,18 @@ export class Book {
   }
 
   /**
-   * Creates a new Book instance with validation of all properties
+   * Creates a new BookBase instance with validation of all properties
    * @param props - The book properties to create the instance with
-   * @returns Either validation errors or a valid Book instance
+   * @returns Either validation errors or a valid BookBase instance
    */
-  static create(props: BookProps): Either<BookErrors, Book> {
+  static create(props: BookBaseProps): Either<BookErrors, BookBase> {
     return pipe(
       Do,
       bind("title", () => Title.make(input.title)),
       bind("year", () => PubYear.make(input.year)),
       // ...other VOs
       map(({ title, year, ...rest }) => {
-        const book = new Book(/* private ctor args */);
+        const book = new BookBase(/* private ctor args */);
         book.#addDomainEvent({
           eventType: "BookCreated",
           aggregateId: book.id,
@@ -303,7 +303,7 @@ export class Book {
     const contentResp = BookValidationService.validateContent(props.contents);
     if (isLeft(contentResp)) return contentResp;
 
-    const book = new Book(props);
+    const book = new BookBase(props);
     book.#addDomainEvent({
       eventType: "BookCreated",
       aggregateId: book.#id,

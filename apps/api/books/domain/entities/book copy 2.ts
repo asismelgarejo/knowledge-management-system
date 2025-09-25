@@ -80,12 +80,12 @@ export type BookDomainEvent =
 //#endregion
 
 /**
- * Properties required to create a Book instance
+ * Properties required to create a BookBase instance
  */
-export type BookProps = {
+export type BookBaseProps = {
   /** Unique identifier for the book */
   id: Id;
-  /** International Standard Book Number */
+  /** International Standard BookBase Number */
   isbn: string;
   /** The book's title */
   title: string;
@@ -110,7 +110,7 @@ export type BookProps = {
 };
 
 /**
- * Union type of all possible validation errors that can occur when creating or updating a Book
+ * Union type of all possible validation errors that can occur when creating or updating a BookBase
  */
 export type BookErrors =
   | InvalidBookTitleError
@@ -126,10 +126,10 @@ export type BookErrors =
   | InvalidBookTagError
   | InvalidBookContentError;
 
-export class Book {
+export class BookBase {
   // Unique identifier for the book - immutable once set
   readonly #id: Id;
-  // International Standard Book Number - unique book identifier
+  // International Standard BookBase Number - unique book identifier
   #isbn: string;
   // Edition number of the book (1st edition, 2nd edition, etc.)
   #edition: number;
@@ -155,10 +155,10 @@ export class Book {
   #domainEvents: BookDomainEvent[] = [];
 
   /**
-   * Private constructor to ensure Book instances are only created through the static create method
+   * Private constructor to ensure BookBase instances are only created through the static create method
    * @param props - The validated book properties
    */
-  private constructor(props: BookProps) {
+  private constructor(props: BookBaseProps) {
     this.#id = props.id;
     this.#isbn = props.isbn;
     this.#title = props.title;
@@ -173,7 +173,7 @@ export class Book {
     this.#contents = props.contents;
   }
 
-  static create(props: BookProps): Either<BookErrors, Book> {
+  static create(props: BookBaseProps): Either<BookErrors, BookBase> {
     
   }
 

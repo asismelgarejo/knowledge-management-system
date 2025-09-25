@@ -16,23 +16,23 @@ import {
 import { Id } from "@/resources/shared/common-values";
 import { isLeft, isRight } from "fp-ts/Either";
 import {
-  Book,
+  BookBase,
   BookContentTypes,
   BookExtensionsTypes,
   type BookAuthor,
   type BookCategory,
   type BookContent,
-  type BookProps,
+  type BookBaseProps,
   type BookSource,
   type BookTag,
 } from "./book";
 
-describe("Book", () => {
+describe("BookBase", () => {
   const validId = Id.create("507f1f77bcf86cd799439011");
-  const validBookProps: BookProps = {
+  const validBookProps: BookBaseProps = {
     id: Id.create("507f1f77bcf86cd799439011"),
     isbn: "978-0-123-45678-9",
-    title: "Test Book",
+    title: "Test BookBase",
     edition: 1,
     sources: [
       {
@@ -70,14 +70,14 @@ describe("Book", () => {
     description: "A test book description",
   };
 
-  describe("Book.create", () => {
+  describe("BookBase.create", () => {
     test("should create a valid book with all required fields", () => {
-      const result = Book.create(validBookProps);
+      const result = BookBase.create(validBookProps);
 
       expect(isRight(result)).toBe(true);
       if (isRight(result)) {
         const book = result.right;
-        expect(book.title).toBe("Test Book");
+        expect(book.title).toBe("Test BookBase");
         expect(book.isbn).toBe("978-0-123-45678-9");
         expect(book.edition).toBe(1);
         expect(book.year).toBe(2023);
@@ -95,7 +95,7 @@ describe("Book", () => {
       const propsWithoutDescription = { ...validBookProps };
       delete propsWithoutDescription.description;
 
-      const result = Book.create(propsWithoutDescription);
+      const result = BookBase.create(propsWithoutDescription);
 
       expect(isRight(result)).toBe(true);
       if (isRight(result)) {
@@ -106,7 +106,7 @@ describe("Book", () => {
     describe("ISBN validation", () => {
       test("should reject invalid ISBN format", () => {
         const invalidProps = { ...validBookProps, isbn: "invalid-isbn" };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -116,14 +116,14 @@ describe("Book", () => {
 
       test("should accept valid ISBN-13 starting with 978", () => {
         const validProps = { ...validBookProps, isbn: "978-1-234-56789-0" };
-        const result = Book.create(validProps);
+        const result = BookBase.create(validProps);
 
         expect(isRight(result)).toBe(true);
       });
 
       test("should accept valid ISBN-13 starting with 979", () => {
         const validProps = { ...validBookProps, isbn: "979-1-234-56789-7" };
-        const result = Book.create(validProps);
+        const result = BookBase.create(validProps);
 
         expect(isRight(result)).toBe(true);
       });
@@ -132,7 +132,7 @@ describe("Book", () => {
     describe("Edition validation", () => {
       test("should reject negative edition", () => {
         const invalidProps = { ...validBookProps, edition: -1 };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -142,7 +142,7 @@ describe("Book", () => {
 
       test("should reject zero edition", () => {
         const invalidProps = { ...validBookProps, edition: 0 };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -152,7 +152,7 @@ describe("Book", () => {
 
       test("should reject non-integer edition", () => {
         const invalidProps = { ...validBookProps, edition: 1.5 };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -164,7 +164,7 @@ describe("Book", () => {
     describe("Title validation", () => {
       test("should reject empty title", () => {
         const invalidProps = { ...validBookProps, title: "" };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -176,7 +176,7 @@ describe("Book", () => {
     describe("Cover validation", () => {
       test("should reject invalid cover URL", () => {
         const invalidProps = { ...validBookProps, cover: "not-a-url" };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -188,7 +188,7 @@ describe("Book", () => {
     describe("Year validation", () => {
       test("should reject negative year", () => {
         const invalidProps = { ...validBookProps, year: -1 };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -198,7 +198,7 @@ describe("Book", () => {
 
       test("should reject non-integer year", () => {
         const invalidProps = { ...validBookProps, year: 2023.5 };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -213,7 +213,7 @@ describe("Book", () => {
           ...validBookProps,
           authors: [{ id: validId!, names: "" }],
         };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -228,7 +228,7 @@ describe("Book", () => {
           ...validBookProps,
           categories: [{ id: validId!, name: "" }],
         };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -243,7 +243,7 @@ describe("Book", () => {
           ...validBookProps,
           tags: [{ id: validId!, name: "" }],
         };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -258,7 +258,7 @@ describe("Book", () => {
           ...validBookProps,
           sources: [{ url: "not-a-url", extension: BookExtensionsTypes.pdf }],
         };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -271,7 +271,7 @@ describe("Book", () => {
           ...validBookProps,
           sources: [{ url: "https://example.com/book.pdf", extension: "invalid" as BookExtensionsTypes }],
         };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -284,7 +284,7 @@ describe("Book", () => {
           ...validBookProps,
           sources: [{ url: "https://example.com/book.epub", extension: BookExtensionsTypes.epub }],
         };
-        const result = Book.create(validProps);
+        const result = BookBase.create(validProps);
 
         expect(isRight(result)).toBe(true);
       });
@@ -302,7 +302,7 @@ describe("Book", () => {
             },
           ],
         };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -322,7 +322,7 @@ describe("Book", () => {
             },
           ],
         };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
 
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
@@ -348,7 +348,7 @@ describe("Book", () => {
             },
           ],
         };
-        const result = Book.create(validProps);
+        const result = BookBase.create(validProps);
 
         expect(isRight(result)).toBe(true);
       });
@@ -357,7 +357,7 @@ describe("Book", () => {
     describe("Description validation", () => {
       test("should reject empty description when provided", () => {
         const invalidProps = { ...validBookProps, description: "" };
-        const result = Book.create(invalidProps);
+        const result = BookBase.create(invalidProps);
         expect(isLeft(result)).toBe(true);
         if (isLeft(result)) {
           expect(result.left).toBeInstanceOf(InvalidBookDescriptionError);
@@ -366,11 +366,11 @@ describe("Book", () => {
     });
   });
 
-  describe("Book update methods", () => {
-    let book: Book;
+  describe("BookBase update methods", () => {
+    let book: BookBase;
 
     beforeEach(() => {
-      const result = Book.create(validBookProps);
+      const result = BookBase.create(validBookProps);
       if (isRight(result)) {
         book = result.right;
       }
@@ -391,7 +391,7 @@ describe("Book", () => {
         if (isLeft(result)) {
           expect(result.left).toBeInstanceOf(InvalidBookTitleError);
         }
-        expect(book.title).toBe("Test Book"); // Should not change
+        expect(book.title).toBe("Test BookBase"); // Should not change
       });
     });
 
@@ -630,11 +630,11 @@ describe("Book", () => {
     });
   });
 
-  describe("Book getters", () => {
-    let book: Book;
+  describe("BookBase getters", () => {
+    let book: BookBase;
 
     beforeEach(() => {
-      const result = Book.create(validBookProps);
+      const result = BookBase.create(validBookProps);
       if (isRight(result)) {
         book = result.right;
       }
@@ -643,7 +643,7 @@ describe("Book", () => {
     test("should have correct getter values", () => {
       expect(book.id).toBeInstanceOf(Id);
       expect(book.isbn).toBe("978-0-123-45678-9");
-      expect(book.title).toBe("Test Book");
+      expect(book.title).toBe("Test BookBase");
       expect(book.edition).toBe(1);
       expect(book.cover).toBe("https://example.com/cover.jpg");
       expect(book.year).toBe(2023);
