@@ -1,0 +1,22 @@
+{
+  "ts-node": {
+    "transpileOnly": true,
+    "swc": true
+  },
+  "compilerOptions": {
+    "outDir": "dist",
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "target": "ES2022",
+    "module": "nodenext",
+    "paths": {
+      "@/resources/*": ["./resources/*"],
+      "@/books/*": ["./books/*"],
+      "@/shared/*": ["./shared/*"]
+    },
+    "emitDecoratorMetadata": true
+  },
+  "include": ["**/*.ts", "tsconfig.json"],
+  "references": []
+}

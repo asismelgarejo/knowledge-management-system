@@ -1,0 +1,195 @@
+AWS Certified Cloud Practitioner Exam Guide
+UML Diagramming: A Case Study Approach
+The Official Guide to Mermaid.js
+Automate It with Zapier and Generative AI
+AWS Certified Developer Associate Certification and Beyond: A comprehensive guide to help you succeed in the AWS DVA-C02 certification exam
+50 Algorithms Every Programmer Should Know
+50 Kubernetes Concepts Every DevOps Engineer Should Know
+A Developer's Essential Guide to Docker Compose
+Accelerating Server-Side Development with Fastify
+Adolescence
+API Testing and Development with Postman
+Architecting AWS with Terraform
+Architecting Cloud-Native Serverless Solutions
+Attacking and Exploiting Modern Web Applications
+Automating DevOps with GitLab CI/CD Pipelines
+AWS CDK in Practice
+AWS Certified Database - Specialty (DBS-C01) Certification Guide
+AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)
+AWS Cloud Computing Concepts and Tech Analogies
+AWS DevOps Simplified
+AWS FinOps Simplified
+AWS for Solutions Architects
+AWS Observability Handbook
+Bash Quick Start Guide
+BDD in Action
+Becoming a PMP® Certified Professional
+The Best of Soccer Journal Techniques and Tactics
+Building and Automating Penetration Testing Labs in the Cloud
+Building and Delivering Microservices on AWS
+Building Distributed Applications in Gin
+Building Microservices with Node.js
+Building Modern CLI Applications in Go
+Business Communication
+Business Driven Technology
+BUSINESS VOCABULARY IN USE
+Cloud Penetration Testing for Red Teamers
+Command Line Fundamentals
+Comprehensive Stress Management
+Computer Vision on AWS
+Continuous Delivery with Docker and Jenkins
+Corporate Finance
+Cybersecurity and Privacy Law Handbook
+Cybersecurity Career Master Plan
+Cybersecurity Threats, Malware Trends, and Strategies
+Data Ingestion with Python Cookbook
+Data Lakehouse in Action
+Datadog Cloud Monitoring Quick Start Guide
+Developing Modern Database Applications with PostgreSQL
+DevOps Adoption Strategies: Principles, Processes, Tools, and Trends
+Domain-Driven Design with Golang
+Effective Concurrency in Go
+Elasticsearch 8.x Cookbook
+Empowering Marketing and Sales with HubSpot
+English Vocabulary in Use - Pre-intermediate & Intermediate
+English Vocabulary in Use: Upper-intermediate
+Enhanced Test Automation with WebdriverIO
+Entrepreneurial Small Business
+entrepreneurship THE ART, SCIENCE, AND PROCESS FOR SUCCESS
+Essential Cryptography for JavaScript Developers
+Essentials of Marketing Research
+Essentials of Marketing
+Event-Driven Architecture in Golang
+FINANCIAL ACCOUNTING
+Focus on Personal Finance
+Foundations of Financial Management
+Full-Stack Web Development with Go
+Functional Programming in Go
+Functional Python Programming
+Fundamentals of CORPORATE FINANCE
+Fundamentals of FINANCIAL ACCOUNTING
+Getting Started with Elastic Stack 8.0
+Going IT Alone: The Handbook for Freelance and Contract Software Developers
+gRPC Go for Professionals
+gRPC Microservices in Go
+Hands-On Agile Software Development with JIRA
+Hands-On Data Structures and Algorithms with Python
+Hands-On Python for DevOps
+Hands-On Serverless Applications with Go
+Hands-On Web Scraping with Python
+Implementing DevSecOps Practices
+Implementing Multifactor Authentication
+Infrastructure as Code for Beginners
+Intimate Relationships
+Investments
+Jira 8 Essentials
+Kubernetes – An Enterprise Guide
+Algorithmic Short Selling with Python
+Leadership
+Learn Data Structures and Algorithms with Golang
+Learn Grafana 10.x
+Learn Linux Shell Scripting – Fundamentals of Bash 4.4
+Learn Linux Shell Scripting – Fundamentals of Bash 4.4
+Learning JavaScript Data Structures and Algorithms
+Life
+LIFT YOUR IMPACT
+Logging in Action
+Malware Science
+Marketing Automation with Mailchimp
+Mastering Amazon EC2
+Mastering Bash
+Mastering Cloud Security Posture Management (CSPM)
+Mastering Docker
+Mastering Elastic Kubernetes Service on AWS
+Mastering GitHub Actions
+Mastering Go
+Mastering JavaScript Functional Programming
+Mastering Kubernetes
+Mastering MongoDB 6.x
+Mastering MongoDB 7.0
+Mastering Node.js Web Development
+Mastering TypeScript
+Microservices with Go
+Modern Time Series Forecasting with Python
+Money, Banking, and Financial Markets
+MongoDB Fundamentals
+Negotiation
+Network Automation with Go
+Network Programming and Automation Essentials
+Nginx HTTP Server
+Node Cookbook
+Node.js Design Patterns
+Observability with Grafana
+Operations and Supply Chain Management: The Core
+PERFECT PHRASES
+Policy Design in the Age of Digital Adoption
+AWS for System Administrators
+Principles of Corporate Finance
+PRINCIPLES OF ECONOMICS
+Protocol Buffers Handbook
+Python Essentials for AWS Cloud Developers
+Python for Finance Cookbook
+Python Object-Oriented Programming
+RabbitMQ Essentials
+Real Estate Finance and Investments
+Redis Stack for Application Modernization
+Research Design and Methods
+Rogue Waves
+Running Windows Containers on AWS
+SMALL BUSINESS MANAGEMENT
+Software Testing Strategies
+StartupPro: How to set up and grow a tech business
+Statistics for Engineers and Scientists
+STOCKS for the LONG RUN
+Street Soccer: The Coaches’ Guide
+WINNING THE LOSER’S GAME
+Vector Search for Practitioners with Elastic
+TLS Cryptography In-Depth
+Time Series Indexing
+THRIVING ON OVERLOAD
+The Ultimate Docker Container Book
+The Software Developer's Guide to Linux
+The Python Workshop
+The Professional Scrum Master (PSM I) Guide
+The Pandas Workshop
+The MySQL Workshop
+The Kubernetes Workshop
+The Go Workshop
+The Art of Public Speaking
+The Art of Data-Driven Business
+Test-Driven Development in Go
+Test Automation Engineering Handbook
+Terraform in Action
+Supercharging Node.js Applications with Sequelize
+Kibana 8.x - A Quick Start Guide to Data Analysis
+The JWT Handbook
+Introducing EventStorming
+Advanced Git
+Modern DevOps Practices
+Exploring Writing Paragraphs and Essays
+Infrastructure Monitoring With Amazon Cloud Watch
+Test Automation Engineering Handbook
+Windows Ransomware Detection and Protection
+Practical Threat Detection Engineering
+Incident Response in the Age of Cloud
+Reconnaissance for Ethical Hackers
+Mastering Prometheus
+Mastering Prometheus
+Salesforce Platform Enterprise Architecture
+Serverless Machine Learning with Amazon Redshift ML
+Get Your Hands Dirty on Clean Architecture
+Salesforce End-to-End Implementation Handbook
+The Future of Finance with ChatGPT and Power BI
+Full-Stack Web Development with TypeScript 5
+Zero Trust Overview and Playbook Introduction
+Amazon Redshift Cookbook
+Database Design and Modeling with PostgreSQL and MySQL: Build efficient and scalable databases for modern applications using open source databases
+Data Modeling with Snowflake: A practical guide to accelerating Snowflake development using universal data modeling techniques
+AWS Certified DevOps Engineer - Professional Certification and Beyond: Pass the DOP-C01 exam and prepare for the real world using case studies and real-life examples
+Artificial Intelligence Basics: A Self-Teaching Introduction
+Artificial Intelligence, Machine Learning, and Deep Learning: A Practical Guide to Advanced AI Techniques
+Serverless Analytics with Amazon Athena: Query structured, unstructured, or semi-structured data in seconds without setting up any infrastructure
+Artificial Intelligence in the 21st Century: The Future of Technology and Human Innovation
+Rapid Application Development with AWS Amplify: Full stack web development on Amazon Web Servics
+Demystifying Cryptography with OpenSSL 3.0: Discover the best techniques to enhance your network security with OpenSSL 3.0
+Accelerate DevOps with GitHub: Enhance software delivery performance with GitHub Issues, Projects, Actions, and Advanced Security

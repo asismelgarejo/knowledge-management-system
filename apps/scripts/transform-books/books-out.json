@@ -1,0 +1,5182 @@
+[
+  {
+    "Title": "50 Algorithms Every Programmer Should Know",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "50 Kubernetes Concepts Every DevOps Engineer Should Know",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "A Developers Essential Guide to Docker Compose",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "A Quick Start Guide to Data Analysis",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Accelerating Server-Side Development with Fastify",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Adolescence",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Advanced Git",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Advanced Grammar in Use Book",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AI Agents in Practice",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AI for Absolute Beginners",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AI-Assisted Programming for Web and Machine Learning",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Algorithmic Short Selling with Python",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "API Testing and Development with Postman",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Architecting AWS with Terraform",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Architecting Cloud-Native Serverless Solutions",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "archivos",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "json",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Artificial Intelligence in the 21st Century",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Attacking and Exploiting Modern Web Applications",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Automate It with Zapier and Generative AI",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Automating DevOps with GitLab CI_CD Pipelines",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS CDK in Practice",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS Certified Cloud Practitioner Exam Guide",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS Certified Database - Specialty (DBS-C01)",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS Cloud Computing Concepts and Tech Analogies",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS DevOps Simplified Build a solid foundation in AWS to deliver enterprise",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS FinOps Simplified",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS for Solutions Architects",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS for System Administrators",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "AWS Observability Handbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Bash Quick Start Guide",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "BDD in Action",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "books",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "json",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building AI Agents with LLMs, RAG, and Knowledge Graphs",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building AI Applications with OpenAI APIs",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building and Automating Penetration Testing Labs in the Cloud",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building and Delivering Microservices on AWS",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building Business-Ready Generative AI Systems",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building Distributed Applications in Gin",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building LLM Powered Applications",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building Microservices with Node.js",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Building Modern CLI Applications in Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Business Communication",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Business Driven Technology",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Business Vocabulary in Use Intermediate",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Cambridge IELTS General Training 19",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Clean Architecture with Python",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Cloud Auditing Best Practices",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Cloud Penetration Testing for Red Teamers",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "College Writing Skills with Readings",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Command Line Fundamentals",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Comprehensive Stress Management",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "CompTIA Security CompTIA Security+ SY0-701",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Computer Vision on AWS",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Continuous Delivery with Docker and Jenkins_ Create secure applications by building complete CI_CD pipelines",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Corporate Finance",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Cybersecurity and Privacy Law Handbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Cybersecurity Career Master Plan",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Cybersecurity Threats, Malware Trends and Strategies Discover",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Data Governance Handbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Data Ingestion with Python Cookbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Data Lakehouse in Action",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Databricks Certified Associate Developer for Apache Spark Using Python",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Datadog Cloud Monitoring Quick Start Guide",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Designing and Prototyping Interfaces with Figma",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Designing Professional Websites with Odoo Website Builder",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Developing Modern Database Applications with PostgreSQL",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "DevOps Adoption Strategies Principles, Processes, Tools, and Trends",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "DevOps Unleashed with Git and GitHub",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Distributed Systems with Node.js_ Building Enterprise",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Domain modeling made functional",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Domain-Driven Design with Golang",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Domain-Driven Refactoring",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Driving DevOps with Value Stream Management",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Effective Concurrency in Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "ElasticSearch 8.x cookbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Embracing Microservices Design",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Collocations in Use Advanced",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Collocations in Use Intermediate",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Grammar in Use - Supplementary Exercises",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Grammar in Use",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Idioms in Use Advanced",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Idioms in Use Intermediate",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Phrasal Verbs in Use Advanced",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Phrasal Verbs in Use Intermediate",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Pronunciation in Use Intermediate",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Vocabulary in Use Advanced",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Vocabulary in Use Pre-Intermediate and Intermediate Book",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "English Vocabulary in Use Upper-Intermediate",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Enhanced Test Automation with WebdriverIO (anonymous) (Z-Library)",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Entrepreneurial Small Business",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "ENTREPRENEURSHIP",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Essential Computer Hardware",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Essential Cryptography for JavaScript Developers",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Essentials of Economics",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Essentials of Investments",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Essentials of Marketing Research",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Essentials of Marketing",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Event-Driven Architecture in Golang",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Financial accounting",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Focus on Personal Finance 7TH",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Foundations of Financial Management",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Full-Stack Web Development with Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Functional Programming in Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Functional Python Programming",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Fundamentals of corporate finance",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Fundamentals of Financial Accounting",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Generating Creative Images With DALL-E 3",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Generative AI Application Integration Patterns",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Generative AI with Amazon Bedrock",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Generative AI with LangChain",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Generative AI with Python and PyTorch",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Generative AI-Powered Assistant for Developers",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Get Your Hands Dirty on Clean Architecture",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Getting Started with Elastic Stack 8.0",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "GitHub Actions Cookbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "GitHub for Next Generation",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Going IT Alone",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "gRPC Go for Professionals",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "gRPC Microservices in Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Hands-On Agile Software Development with JIRA",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Hands-On Computer Vision with Detectron2",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Hands-On Data Structures and Algorithms with Python",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Hands-On Microservices with JavaScript",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Hands-On Python for DevOps",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Hands-On Serverless Applications with Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Hands-On Web Scraping with Python",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Implementing DevSecOps Practices",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Implementing Identity Management on AWS",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Implementing Multifactor Authentication",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Incident Response in the Age of Cloud",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Infrastructure as Code for Beginners",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Infrastructure Monitoring With Amazon Cloud Watch",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Intimate Relationships",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Introducing EventStorming",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "INTRODUCTORY FINANCIAL ACCOUNTING FOR BUSINESS",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Investments",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Jira 8 Essentials",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "jwt-handbook-v0_14_1",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Kibana 8.x",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Kubernetes",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Leadership",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learn Data Structures and Algorithms with Golang",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learn Grafana 10.x",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learn Linux Shell Scripting",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learn PostgreSQL",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learning DevOps",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learning JavaScript Data Structures and Algorithms",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learning Microsoft Project 2019",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Learning OpenCV 5 Computer Vision with Python",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Life The Essentials of Human Development",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Lift Your Impact",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "LLM Design Patterns",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Logging in Action",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Machine Learning Engineering on AWS",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Machine Learning with Amazon SageMaker",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Malware Science",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Marketing Automation with Mailchimp",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "MASTERING AMAZON EC2",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering AWS CloudFormation",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Bash",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Cloud Security Posture Management (CSPM)",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Docker Enhance",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Elastic Kubernetes",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering GitHub Actions",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering JavaScript Functional Programming",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Kubernetes",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Linux shell scripting",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering MongoDB 6.x",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering MongoDB 7.0",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Node.js Web Development Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Prometheus",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering Python Design Patterns",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Mastering TypeScript",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Microservices with Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Modern Computer Vision with PyTorch",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Modern Data Architecture on AWS",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Modern DevOps Practices",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Modern Full-Stack React Projects",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Modern Generative AI with ChatGPT and OpenAI Models",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Modern Time Series Forecasting with Python",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Money, Banking and Financial Markets",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "MongoDB Fundamentals",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Negotiation ISE",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Network Automation with Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Network Programming and Automation Essentials",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Nginx HTTP Server",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Node Cookbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Node.js Design Patterns",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Observability with Grafana",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Odoo 15 Development Essentials",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Odoo Development Cookbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Operations and Supply Chain Management",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Optimizing Databricks Workloads",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Paragraphs and Essays",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Perfect Phrases for ESL",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Personal Finance",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Policy Design in the Age of Digital Adoption",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Postgresql Official Docs",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Practical Generative AI with ChatGPT",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Practical Threat Detection Engineering",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Principles of Corporate Finance",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Principles of Economics",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Protocol Buffers Handbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Python Essentials for AWS Cloud Developers",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Python for Finance Cookbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Python Machine Learning By Example",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Python Object-Oriented Programming",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "RabbitMQ essentials",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Rapid Application Development with AWS Amplify",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Real Estate Finance & Investments",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Reconnaissance for Ethical Hackers",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Redis Stack for Application Modernization",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Research Design and Methods",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Rogue Waves",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Running Windows Containers on AWS",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Serverless Machine Learning with Amazon Redshift ML",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Small Business Management",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Software Architecture for Busy Developers",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Software Architecture for Web Developers",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Software Requirements",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Software Testing Strategies",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Solutions Architect's Handbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "StartupPro",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Statistics for Engineers and Scientists",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Stocks for the Long Run",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Strength Training",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Supercharged Coding with GenAI",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Supercharging Node.js Applications with Sequelize",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Terraform in Action-Manning",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Test Automation Engineering Handbook",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Test-Driven Development in Go",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Art of Data-Driven Business",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Art Of Public Speaking",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Beginner’s Guide to DaVinci Resolve 16",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Future of Finance with ChatGPT and Power BI",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Go Workshop",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Infinite Retina",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Kubernetes Workshop",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Official Guide to Mermaid.js",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Pandas Workshop",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Python Workshop",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Software Developer's Guide to Linux",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "The Ultimate Docker Container",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Thriving on Overload",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Time Series Indexing",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "TLS Cryptography In-Depth",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "TypeScript 4 Design Patterns and Best Practices",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "TypeScript 5 Design Patterns and Best Practices",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "UML Diagramming",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Unlocking Data with Generative AI and RAG",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Unlocking the Secrets of Prompt Engineering",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Vector Search for Practitioners with Elastic",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Video Editing Made Easy with DaVinci Resolve 18",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Web App Development Made Simple with Streamlit",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "epub",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Windows Ransomware Detection and Protection",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Winning the Loser's Game",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  },
+  {
+    "Title": "Zero Trust Overview and Playbook Introduction",
+    "Type": "Book",
+    "BookType": "seccion-capitulo",
+    "Authors": [],
+    "Source": [
+      {
+        "Extension": "pdf",
+        "Url": ""
+      }
+    ],
+    "Cover": "",
+    "Description": "",
+    "Edition": 0,
+    "ISBN": "",
+    "Tags": [],
+    "Categories": [],
+    "Year": 0,
+    "Contents": []
+  }
+]

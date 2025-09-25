@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  mongodb:
+    container_name: kms
+    image: "mongo:latest"
+    ports:
+      - "27022:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=hard_root_db
+    networks:
+      - kms-net
+    volumes:
+      - mongo-data:/data/db
+
+networks:
+  kms-net:
+    driver: bridge
+
+volumes:
+  mongo-data:

@@ -1,0 +1,10 @@
+{
+    "ext": "ts,js,json",
+    "ignore": [
+        "node_modules",
+        "dist"
+    ],
+    "execMap": {
+        "ts": "node -r ts-node/register --env-file=.local.env"
+    }
+}

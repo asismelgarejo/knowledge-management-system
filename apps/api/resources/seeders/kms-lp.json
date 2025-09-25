@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Score-Hubspot integrator serverless application using AWS CDK",
+    "code": "score-hubspot-integrator-serverless-application-using-aws-cdk",
+    "goals": [
+        "<h1>Replicate the project with my own AWS Resources</h1>"
+    ],
+    "description": "<p>Score-Hubspot integrator serverless application is an on-premise project of P2P. Its key components are:<p><ul><li>Amazon CDK</li><li>Amazon API Gateway</li><li>Amazon Lambda</li><li>Amazon CodePepiline</li><li>Amazon Secrets Manager</li></ul>",
+    "resources": [
+        {
+            "name": "Getting Started with IaC and AWS CDK",
+            "type": "BOOK",
+            "resource": "AWS CDK in Practice",
+            "time_estimation": null,    
+            "notes": [
+                "https://www.notion.so/Getting-Started-with-IaC-and-AWS-CDK-59db835804ef4f32960410deac04b2da?pvs=4"
+            ],
+            "status": "PLANNED",
+            "url": "<h1>"
+        },
+        {
+            "name": "Working with CloudFormation",
+            "type": "BOOK",
+            "state": "DROPPED",
+            "resource": "Mastering AWS CloudFormation",
+            "time_estimation": null,    
+            "notes": [
+                "https://www.notion.so/Working-with-CloudFormation-27992ee065d4463a9ffb2acb5d893cec?pvs=4"
+            ],
+            "status": "PLANNED",
+            "url": "<h1>"
+        },
+        {
+            "name": "What is Amazon API Gateway?",
+            "type": "DOCUMENTATION",
+            "resource": "AWS API Gateway Documentation",
+            "time_estimation": null,    
+            "notes": [],
+            "status": "PLANNED",
+            "url": "<h1>"
+        },
+        {
+            "name": "What is AWS Lambda?",
+            "type": "DOCUMENTATION",
+            "resource": "AWS Lambda Documentation",
+            "time_estimation": null,    
+            "notes": [],
+            "status": "PLANNED",
+            "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html"
+        },
+        {
+            "name": "What is Secrets Manager?",
+            "type": "DOCUMENTATION",
+            "resource": "AWS Secrets Manager Documentation",
+            "time_estimation": null,    
+            "notes": [
+                "https://www.notion.so/What-is-AWS-Secrets-Manager-2ae8567d4e754857b8a15b0a951b5934?pvs=4"
+            ],
+            "status": "PLANNED",
+            "url": "<h1>"
+        },
+        {
+            "name": "What is AWS CodePipeline?",
+            "type": "DOCUMENTATION",
+            "resource": "AWS CodePipeline Documentation",
+            "time_estimation": null,    
+            "notes": [
+                "https://www.notion.so/What-is-AWS-CodePipeline-6a3b8b933f474c59a9e2d18b081e7d75?pvs=4"
+            ],
+            "status": "PLANNED",
+            "url": "<h1>"
+        },
+        {
+            "name": "A Starter Project and Core Concepts",
+            "type": "BOOK",
+            "resource": "AWS CDK in Practice",
+            "time_estimation": null,    
+            "notes": [
+                "https://www.notion.so/A-Starter-Project-and-Core-Concepts-28935d69df5844b6a10f5115fcd243bf?pvs=4"
+            ],
+            "status": "PLANNED",
+            "url": "<h1>"
+        },
+        {
+            "name": "Building a Full Stack Application with CDK",
+            "type": "BOOK",
+            "resource": "AWS CDK in Practice",
+            "time_estimation": null,    
+            "notes": [
+                "https://www.notion.so/Building-a-Full-Stack-Application-with-CDK-3e0626daca2d429cbd64126a556036a2?pvs=4"
+            ],
+            "status": "PLANNED",
+            "url": "<h1>"
+        },
+        {
+            "name": "Complete Web Application Deployment with AWS CDK",
+            "type": "BOOK",
+            "resource": "AWS CDK in Practice",
+            "time_estimation": null,    
+            "notes": [
+                "https://www.notion.so/Complete-Web-Application-Deployment-with-AWS-CDK-be7956466e2c459cb7eec5e37476e450?pvs=4"
+            ],
+            "status": "PLANNED",
+            "url": "<h1>"
+        }
+    ]
+  }
+]

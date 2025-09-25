@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../dist/shared",
+    "composite": true,
+    "paths": {
+      "@/shared/*": ["./*"]
+    }
+  },
+  "include": ["**/*.ts"],
+  "references": []
+}

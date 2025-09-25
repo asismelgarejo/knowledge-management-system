@@ -1,0 +1,49 @@
+[
+    {
+        "name": "A comparison of BigNumber libraries in JavaScript",
+        "technologies": ["node.js"],
+        "url": "https://dev.to/fvictorio/a-comparison-of-bignumber-libraries-in-javascript-2gc5"
+    },
+    {
+        "name": "A Comprehensive Guide to Data Modeling",
+        "tags": ["Node.js"],
+        "categories": ["Backend Web Development"],
+        "url": "https://www.mongodb.com/resources/basics/databases/data-modeling?msockid=100bc1b35eb7616f1e1ed2345fc260c7"
+    },
+    {
+        "name": "Stack Traces",
+        "tags": ["Node.js"],
+        "categories": ["Backend Web Development"],
+        "url": ""
+    },
+    {
+        "name": "Source maps in nodejs",
+        "tags": ["Node.js"],
+        "categories": ["Backend Web Development"],
+        "url": ""
+    },
+    {
+        "name": "Building Serverless solutions",
+        "tags": ["AWS"],
+        "categories": ["Backend Web Development"],
+        "url": "https://docs.aws.amazon.com/serverless/latest/devguide/welcome.html"
+    },
+    {
+        "name": "Monorepos",
+        "tags": ["AWS"],
+        "categories": ["Backend Web Development"],
+        "url": ""
+    },
+    {
+        "name": "Monorepos",
+        "tags": ["AWS"],
+        "categories": ["Backend Web Development"],
+        "url": "https://semaphoreci.com/blog/what-is-monorepo "
+    },
+    {
+        "name": "Oh My Posh",
+        "tags": ["AWS"],
+        "categories": ["Backend Web Development"],
+        "url": "https://semaphoreci.com/blog/what-is-monorepo "
+    }
+]

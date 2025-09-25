@@ -1,0 +1,17 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../dist/resources",
+    "composite": true,
+    "paths": {
+      "@/resources/*": ["./*"],
+      "@/shared/*": ["../shared/*"]
+    }
+  },
+  "include": ["**/*.ts"],
+  "references": [
+    {
+      "path": "../shared"
+    }
+  ]
+}

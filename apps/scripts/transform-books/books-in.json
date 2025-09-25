@@ -1,0 +1,1038 @@
+[
+  {
+    "Name": "50 Algorithms Every Programmer Should Know",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "50 Kubernetes Concepts Every DevOps Engineer Should Know",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "A Developers Essential Guide to Docker Compose",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "A Quick Start Guide to Data Analysis",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Accelerating Server-Side Development with Fastify",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Adolescence",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Advanced Git",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Advanced Grammar in Use Book",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AI Agents in Practice",
+    "Extension": "epub"
+  },
+  {
+    "Name": "AI for Absolute Beginners",
+    "Extension": "epub"
+  },
+  {
+    "Name": "AI-Assisted Programming for Web and Machine Learning",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Algorithmic Short Selling with Python",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "API Testing and Development with Postman",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Architecting AWS with Terraform",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Architecting Cloud-Native Serverless Solutions",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "archivos",
+    "Extension": "json"
+  },
+  {
+    "Name": "Artificial Intelligence in the 21st Century",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Attacking and Exploiting Modern Web Applications",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Automate It with Zapier and Generative AI",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Automating DevOps with GitLab CI_CD Pipelines",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS CDK in Practice",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS Certified Cloud Practitioner Exam Guide",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS Certified Database - Specialty (DBS-C01)",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS Certified Solutions Architect - Professional Exam Guide (SAP-C02)",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS Cloud Computing Concepts and Tech Analogies",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS DevOps Simplified Build a solid foundation in AWS to deliver enterprise",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS FinOps Simplified",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS for Solutions Architects",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS for System Administrators",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "AWS Observability Handbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Bash Quick Start Guide",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "BDD in Action",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "books",
+    "Extension": "json"
+  },
+  {
+    "Name": "Building AI Agents with LLMs, RAG, and Knowledge Graphs",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Building AI Applications with OpenAI APIs",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Building and Automating Penetration Testing Labs in the Cloud",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Building and Delivering Microservices on AWS",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Building Business-Ready Generative AI Systems",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Building Distributed Applications in Gin",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Building LLM Powered Applications",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Building Microservices with Node.js",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Building Modern CLI Applications in Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Business Communication",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Business Driven Technology",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Business Vocabulary in Use Intermediate",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Cambridge IELTS General Training 19",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Clean Architecture with Python",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Cloud Auditing Best Practices",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Cloud Penetration Testing for Red Teamers",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "College Writing Skills with Readings",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Command Line Fundamentals",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Comprehensive Stress Management",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "CompTIA Security CompTIA Security+ SY0-701",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Computer Vision on AWS",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Continuous Delivery with Docker and Jenkins_ Create secure applications by building complete CI_CD pipelines",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Corporate Finance",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Cybersecurity and Privacy Law Handbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Cybersecurity Career Master Plan",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Cybersecurity Threats, Malware Trends and Strategies Discover",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Data Governance Handbook",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Data Ingestion with Python Cookbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Data Lakehouse in Action",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Databricks Certified Associate Developer for Apache Spark Using Python",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Datadog Cloud Monitoring Quick Start Guide",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Designing and Prototyping Interfaces with Figma",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Designing Professional Websites with Odoo Website Builder",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Developing Modern Database Applications with PostgreSQL",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "DevOps Adoption Strategies Principles, Processes, Tools, and Trends",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "DevOps Unleashed with Git and GitHub",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Distributed Systems with Node.js_ Building Enterprise",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Domain modeling made functional",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Domain-Driven Design with Golang",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Domain-Driven Refactoring",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Driving DevOps with Value Stream Management",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Effective Concurrency in Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "ElasticSearch 8.x cookbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Embracing Microservices Design",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Collocations in Use Advanced",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Collocations in Use Intermediate",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Grammar in Use - Supplementary Exercises",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Grammar in Use",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Idioms in Use Advanced",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Idioms in Use Intermediate",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Phrasal Verbs in Use Advanced",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Phrasal Verbs in Use Intermediate",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Pronunciation in Use Intermediate",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Vocabulary in Use Advanced",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Vocabulary in Use Pre-Intermediate and Intermediate Book",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "English Vocabulary in Use Upper-Intermediate",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Enhanced Test Automation with WebdriverIO (anonymous) (Z-Library)",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Entrepreneurial Small Business",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "ENTREPRENEURSHIP",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Essential Computer Hardware",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Essential Cryptography for JavaScript Developers",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Essentials of Economics",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Essentials of Investments",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Essentials of Marketing Research",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Essentials of Marketing",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Event-Driven Architecture in Golang",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Financial accounting",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Focus on Personal Finance 7TH",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Foundations of Financial Management",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Full-Stack Web Development with Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Functional Programming in Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Functional Python Programming",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Fundamentals of corporate finance",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Fundamentals of Financial Accounting",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Generating Creative Images With DALL-E 3",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Generative AI Application Integration Patterns",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Generative AI with Amazon Bedrock",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Generative AI with LangChain",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Generative AI with Python and PyTorch",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Generative AI-Powered Assistant for Developers",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Get Your Hands Dirty on Clean Architecture",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Getting Started with Elastic Stack 8.0",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "GitHub Actions Cookbook",
+    "Extension": "epub"
+  },
+  {
+    "Name": "GitHub for Next Generation",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Going IT Alone",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "gRPC Go for Professionals",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "gRPC Microservices in Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Hands-On Agile Software Development with JIRA",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Hands-On Computer Vision with Detectron2",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Hands-On Data Structures and Algorithms with Python",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Hands-On Microservices with JavaScript",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Hands-On Python for DevOps",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Hands-On Serverless Applications with Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Hands-On Web Scraping with Python",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Implementing DevSecOps Practices",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Implementing Identity Management on AWS",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Implementing Multifactor Authentication",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Incident Response in the Age of Cloud",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Infrastructure as Code for Beginners",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Infrastructure Monitoring With Amazon Cloud Watch",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Intimate Relationships",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Introducing EventStorming",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "INTRODUCTORY FINANCIAL ACCOUNTING FOR BUSINESS",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Investments",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Jira 8 Essentials",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "jwt-handbook-v0_14_1",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Kibana 8.x",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Kubernetes",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Leadership",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learn Data Structures and Algorithms with Golang",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learn Grafana 10.x",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learn Linux Shell Scripting",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learn PostgreSQL",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learning DevOps",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learning JavaScript Data Structures and Algorithms",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learning Microsoft Project 2019",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Learning OpenCV 5 Computer Vision with Python",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Life The Essentials of Human Development",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Lift Your Impact",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "LLM Design Patterns",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Logging in Action",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Machine Learning Engineering on AWS",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Machine Learning with Amazon SageMaker",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Malware Science",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Marketing Automation with Mailchimp",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "MASTERING AMAZON EC2",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering AWS CloudFormation",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Bash",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Cloud Security Posture Management (CSPM)",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Docker Enhance",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Elastic Kubernetes",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering GitHub Actions",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering JavaScript Functional Programming",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Kubernetes",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Linux shell scripting",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering MongoDB 6.x",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering MongoDB 7.0",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Node.js Web Development Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Prometheus",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Mastering Python Design Patterns",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Mastering TypeScript",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Microservices with Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Modern Computer Vision with PyTorch",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Modern Data Architecture on AWS",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Modern DevOps Practices",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Modern Full-Stack React Projects",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Modern Generative AI with ChatGPT and OpenAI Models",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Modern Time Series Forecasting with Python",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Money, Banking and Financial Markets",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "MongoDB Fundamentals",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Negotiation ISE",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Network Automation with Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Network Programming and Automation Essentials",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Nginx HTTP Server",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Node Cookbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Node.js Design Patterns",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Observability with Grafana",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Odoo 15 Development Essentials",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Odoo Development Cookbook",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Operations and Supply Chain Management",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Optimizing Databricks Workloads",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Paragraphs and Essays",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Perfect Phrases for ESL",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Personal Finance",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Policy Design in the Age of Digital Adoption",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Postgresql Official Docs",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Practical Generative AI with ChatGPT",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Practical Threat Detection Engineering",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Principles of Corporate Finance",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Principles of Economics",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Protocol Buffers Handbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Python Essentials for AWS Cloud Developers",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Python for Finance Cookbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Python Machine Learning By Example",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Python Object-Oriented Programming",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "RabbitMQ essentials",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Rapid Application Development with AWS Amplify",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Real Estate Finance & Investments",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Reconnaissance for Ethical Hackers",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Redis Stack for Application Modernization",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Research Design and Methods",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Rogue Waves",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Running Windows Containers on AWS",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Serverless Machine Learning with Amazon Redshift ML",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Small Business Management",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Software Architecture for Busy Developers",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Software Architecture for Web Developers",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Software Requirements",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Software Testing Strategies",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Solutions Architect's Handbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "StartupPro",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Statistics for Engineers and Scientists",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Stocks for the Long Run",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Strength Training",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Supercharged Coding with GenAI",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Supercharging Node.js Applications with Sequelize",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Terraform in Action-Manning",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Test Automation Engineering Handbook",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Test-Driven Development in Go",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Art of Data-Driven Business",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Art Of Public Speaking",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Beginner’s Guide to DaVinci Resolve 16",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Future of Finance with ChatGPT and Power BI",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Go Workshop",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Infinite Retina",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Kubernetes Workshop",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Official Guide to Mermaid.js",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Pandas Workshop",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Python Workshop",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Software Developer's Guide to Linux",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "The Ultimate Docker Container",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Thriving on Overload",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Time Series Indexing",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "TLS Cryptography In-Depth",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "TypeScript 4 Design Patterns and Best Practices",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "TypeScript 5 Design Patterns and Best Practices",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "UML Diagramming",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Unlocking Data with Generative AI and RAG",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Unlocking the Secrets of Prompt Engineering",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Vector Search for Practitioners with Elastic",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Video Editing Made Easy with DaVinci Resolve 18",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Web App Development Made Simple with Streamlit",
+    "Extension": "epub"
+  },
+  {
+    "Name": "Windows Ransomware Detection and Protection",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Winning the Loser's Game",
+    "Extension": "pdf"
+  },
+  {
+    "Name": "Zero Trust Overview and Playbook Introduction",
+    "Extension": "pdf"
+  }
+]
