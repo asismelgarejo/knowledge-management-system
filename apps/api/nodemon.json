@@ -1,8 +1,12 @@
 {
-    "ext": "ts,js,json",
+    "ext": "ts,env",
     "ignore": [
         "node_modules",
         "dist"
+    ],
+    "watch": [
+        ".",
+        ".local.env"
     ],
     "execMap": {
         "ts": "node -r ts-node/register --env-file=.local.env"

@@ -16,6 +16,7 @@ async function run() {
   app.mongo = mongo.client;
 
   const fastifyClient = FastifyClient.create();
+  logger.info("Starting application...", fastifyClient.port + "");
   app.fastify = fastifyClient.client;
   app.addModule(new BookModule());
   await app.startModules();

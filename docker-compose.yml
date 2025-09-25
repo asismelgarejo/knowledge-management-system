@@ -1,0 +1,47 @@
+version: "3.8"
+services:
+  mongodb:
+    container_name: mongodb
+    image: mongo:5.0.0
+    command: ["mongod", "--bind_ip_all", "--replSet", "rs0"]
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+      - ./db-scripts:/docker-entrypoint-initdb.d
+    healthcheck:
+      # Ping simple para saber que está respondiendo
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 3s
+      timeout: 2s
+      retries: 30
+    restart: unless-stopped
+    networks:
+      - kms-net
+  api:
+    container_name: api
+    image: node:22.14.0-slim
+    working_dir: /api
+    command: >
+      sh -lc "
+        cd /workspace &&
+        npm ci --include=dev --workspaces &&
+        npm run start:dev -w apps/api
+      "
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/workspace                       # monorepo completo
+      - workspace_node_modules:/workspace/node_modules   # node_modules del root (dentro del contenedor)
+      - api_node_modules:/workspace/apps/api/node_modules # por si el workspace tiene deps propias
+    depends_on:
+      - mongodb
+    networks:
+      - kms-net
+networks:
+  kms-net:
+    driver: bridge
+volumes:
+  workspace_node_modules:
+  api_node_modules:
+  mongo-data:
