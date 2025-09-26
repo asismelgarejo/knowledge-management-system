@@ -7,7 +7,7 @@ export class BookUnitLesson extends BookBase {
   constructor(props: BookUnitLessonProps) {
     super(props);
   }
-  static create(props: BookBaseProps){
+  static create(props: BookBaseProps) {
     return new BookUnitLesson(props);
   }
 }

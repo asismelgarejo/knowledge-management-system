@@ -38,7 +38,6 @@ export class HandlerCreateBookCommand implements ICommandHandler {
     // --- Build common VOs ---
     const bookId = Id.make();
     const title = BookTitle.make(command.title);
-
     // authors: string[] -> AuthorRef[] -> BookAuthors
     const authorRefs: ReadonlyArray<AuthorRef> = command.authors.map((fullName) => ({
       id: Id.make(), // if you already have Author IDs, map them here instead

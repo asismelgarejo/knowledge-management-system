@@ -16,7 +16,7 @@ export const Id = {
     if (!ObjectId.isValid(value)) {
       throw new Error(`Invalid ObjectId: "${value}"`);
     }
-    return new ObjectId(value).toHexString() as Id;
+    return new ObjectId(value).toString() as Id;
   },
 
   /** Return the canonical string representation (24-char hex). */

@@ -48,7 +48,7 @@ const baseToDomainProps = (row: DbBook) => ({
 
 /** Domain -> Persistence base projection */
 const baseToPersistence = (entity: Book): DbBook => ({
-  _id: new ObjectId(entity.id.toString()),
+  _id: new ObjectId(entity.id().toString()),
   type: entity.type, // enum value already matches Db schema
   title: entity.title(),
   authors: entity.authors().map((e) => ({ id: new ObjectId(e.id.toString()), full_name: e.fullName })), // should yield [{id, full_name}, ...]
