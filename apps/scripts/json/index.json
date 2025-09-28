@@ -1,0 +1,523 @@
+[
+  {
+    "title": "What is Amazon DocumentDB",
+    "subcontent": [
+      { "title": "How it works" },
+      {
+        "title": "What is a document database?",
+        "subcontent": [
+          { "title": "Use cases" },
+          { "title": "Understanding documents" },
+          { "title": "Working with documents" }
+        ]
+      },
+      { "title": "Get started guide" },
+      { "title": "Quick start using AWS CloudFormation" },
+      { "title": "MongoDB compatibility" },
+      { "title": "Transactions" },
+      { "title": "Best practices" },
+      { "title": "Functional differences with MongoDB" },
+      { "title": "Supported MongoDB APIs, operations, and data types" }
+    ]
+  },
+  {
+    "title": "Generative AI",
+    "subcontent": [
+      { "title": "SageMaker Canvas" },
+      { "title": "Vector Search" }
+    ]
+  },
+  {
+    "title": "Migrating to DocumentDB",
+    "subcontent": [
+      { "title": "Quick start guide" },
+      { "title": "Migration runbook" }
+    ]
+  },
+  {
+    "title": "Upgrading DocumentDB",
+    "subcontent": [
+      { "title": "Engine version support dates" },
+      { "title": "Upgrading the Amazon DocumentDB engine version" },
+      { "title": "Upgrading using AWS DMS" }
+    ]
+  },
+  {
+    "title": "Extended Support",
+    "subcontent": [
+      { "title": "Extended Support charges" },
+      { "title": "Responsibilities" }
+    ]
+  },
+  {
+    "title": "Security",
+    "subcontent": [
+      { "title": "Password management with AWS Secrets Manager" },
+      {
+        "title": "Data protection",
+        "subcontent": [
+          { "title": "Client-side field level encryption" },
+          { "title": "Encrypting data at rest" },
+          { "title": "Encrypting data in transit" },
+          { "title": "Key management" }
+        ]
+      },
+      {
+        "title": "Identity and Access Management",
+        "subcontent": [
+          { "title": "How Amazon DocumentDB works with IAM" },
+          { "title": "Identity-based policy examples" },
+          { "title": "Troubleshooting" },
+          {
+            "title": "Managing access permissions to your Amazon DocumentDB resources"
+          },
+          { "title": "Using identity-based policies (IAM policies)" },
+          { "title": "AWS managed policies for Amazon DocumentDB" },
+          { "title": "Amazon DocumentDB API permissions reference" },
+          { "title": "Authentication using IAM identity" }
+        ]
+      },
+      { "title": "Managing Amazon DocumentDB users" },
+      { "title": "Role-Based Access Control" },
+      { "title": "Logging and monitoring" },
+      { "title": "Updating certificates" },
+      { "title": "Updating certificates — GovCloud" },
+      { "title": "Compliance validation" },
+      { "title": "Resilience" },
+      { "title": "Infrastructure security" },
+      { "title": "VPC endpoints (AWS PrivateLink)" },
+      { "title": "Security best practices" },
+      { "title": "Auditing events" }
+    ]
+  },
+  {
+    "title": "Backing up and restoring",
+    "subcontent": [
+      { "title": "Back up and restore: concepts" },
+      { "title": "Understanding backup storage usage" },
+      { "title": "Dumping, restoring, importing, and exporting data" },
+      { "title": "Cluster snapshot considerations" },
+      { "title": "Comparing automatic and manual snapshots" },
+      { "title": "Creating a manual cluster snapshot" },
+      { "title": "Copying a cluster snapshot" },
+      { "title": "Sharing a cluster snapshot" },
+      { "title": "Restoring from a cluster snapshot" },
+      { "title": "Restoring to a point in time" },
+      { "title": "Deleting a cluster snapshot" }
+    ]
+  },
+  {
+    "title": "Managing Amazon DocumentDB",
+    "subcontent": [
+      { "title": "Operational tasks overview" },
+      {
+        "title": "Global clusters",
+        "subcontent": [
+          { "title": "Quick start guide" },
+          { "title": "Managing global clusters" },
+          { "title": "Connecting global clusters" },
+          { "title": "Monitoring global clusters" },
+          { "title": "Disaster recovery" }
+        ]
+      },
+      {
+        "title": "Managing clusters",
+        "subcontent": [
+          { "title": "Understanding clusters" },
+          { "title": "Cluster settings" },
+          { "title": "Cluster storage configurations" },
+          { "title": "Determining a cluster’s status" },
+          {
+            "title": "Cluster lifecycle",
+            "subcontent": [
+              { "title": "Creating a cluster" },
+              { "title": "Describing clusters" },
+              { "title": "Modifying a cluster" },
+              { "title": "Determining pending maintenance" },
+              { "title": "Patch updating a cluster’s engine version" },
+              { "title": "Stopping and starting a cluster" },
+              { "title": "Deleting a cluster" }
+            ]
+          },
+          { "title": "Scaling clusters" },
+          { "title": "Cloning a volume for a cluster" },
+          { "title": "Understanding cluster fault tolerance" }
+        ]
+      },
+      {
+        "title": "Managing instances",
+        "subcontent": [
+          {
+            "title": "Instance lifecycle",
+            "subcontent": [
+              { "title": "Adding an instance" },
+              { "title": "Describing instances" },
+              { "title": "Modifying an instance" },
+              { "title": "Rebooting an instance" },
+              { "title": "Deleting an instance" }
+            ]
+          },
+          { "title": "Managing instance classes" },
+          { "title": "NVMe-backed instances" }
+        ]
+      },
+      {
+        "title": "Managing subnet groups",
+        "subcontent": [
+          { "title": "Creating a subnet group" },
+          { "title": "Describing a subnet group" },
+          { "title": "Modifying a subnet group" },
+          { "title": "Deleting a subnet group" }
+        ]
+      },
+      {
+        "title": "High availability and replication",
+        "subcontent": [{ "title": "Failover" }]
+      },
+      { "title": "Managing indexes" },
+      { "title": "Managing document compression" },
+      { "title": "Managing events" },
+      { "title": "Choosing regions and availability zones" },
+      {
+        "title": "Managing cluster parameter groups",
+        "subcontent": [
+          { "title": "Describing cluster parameter groups" },
+          { "title": "Creating cluster parameter groups" },
+          { "title": "Modifying cluster parameter groups" },
+          {
+            "title": "Modifying clusters to use customized cluster parameter groups"
+          },
+          { "title": "Copying cluster parameter groups" },
+          { "title": "Resetting cluster parameter groups" },
+          { "title": "Deleting cluster parameter groups" }
+        ]
+      },
+      {
+        "title": "Cluster parameters reference",
+        "subcontent": [{ "title": "Modifying cluster parameters" }]
+      },
+      {
+        "title": "Understanding endpoints",
+        "subcontent": [
+          { "title": "Finding a cluster’s endpoints" },
+          { "title": "Finding an instance’s endpoint" },
+          { "title": "Connecting to endpoints" }
+        ]
+      },
+      { "title": "Understanding Amazon DocumentDB ARNs" },
+      { "title": "Tagging resources" },
+      { "title": "Maintaining Amazon DocumentDB" },
+      { "title": "Understanding service-linked roles" },
+      { "title": "Using change streams" },
+      { "title": "Using AWS Lambda with change streams" }
+    ]
+  },
+  {
+    "title": "Using elastic clusters",
+    "subcontent": [
+      { "title": "How it works" },
+      { "title": "Get started" },
+      { "title": "Best practices" },
+      {
+        "title": "Managing elastic clusters",
+        "subcontent": [
+          { "title": "Managing elastic cluster snapshots" },
+          { "title": "Stopping and starting an elastic cluster" },
+          { "title": "Maintaining elastic clusters" }
+        ]
+      },
+      { "title": "Data encryption at rest" },
+      { "title": "Service-linked roles" }
+    ]
+  },
+  {
+    "title": "Monitoring Amazon DocumentDB",
+    "subcontent": [
+      { "title": "Monitoring a cluster's status" },
+      { "title": "Monitoring an instance's status" },
+      { "title": "Viewing Amazon DocumentDB recommendations" },
+      {
+        "title": "Event subscriptions",
+        "subcontent": [
+          { "title": "Subscribing to events" },
+          { "title": "Manage subscriptions" },
+          { "title": "Categories and messages" }
+        ]
+      },
+      { "title": "Monitoring Amazon DocumentDB with CloudWatch" },
+      { "title": "Logging Amazon DocumentDB API calls with CloudTrail" },
+      { "title": "Profiling operations" },
+      {
+        "title": "Monitoring with Performance Insights",
+        "subcontent": [
+          { "title": "Performance Insights concepts" },
+          { "title": "Enabling and disabling Performance Insights" },
+          { "title": "Configuring access policies for Performance Insights" },
+          {
+            "title": "Analyzing metrics with the Performance Insights dashboard",
+            "subcontent": [
+              { "title": "Overview of the Performance Insights dashboard" },
+              { "title": "Opening the Performance Insights dashboard" },
+              { "title": "Analyzing database load by wait states" },
+              { "title": "Overview of the Top queries tab" },
+              { "title": "Zooming in on the database load chart" }
+            ]
+          },
+          { "title": "Retrieving metrics with the Performance Insights API" },
+          { "title": "Amazon CloudWatch metrics for Performance Insights" },
+          { "title": "Performance Insights for counter metrics" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "OpenSearch integration"
+  },
+
+  {
+    "title": "Using DocumentDB serverless",
+    "subcontent": [
+      { "title": "How serverless works" },
+      { "title": "Serverless requirements and limitations" },
+      { "title": "Creating a cluster that uses serverless" },
+      { "title": "Migrating to serverless" },
+      { "title": "Managing serverless" },
+      { "title": "Serverless instance limits" },
+      { "title": "Serverless scaling configuration" },
+      { "title": "Monitoring serverless" }
+    ]
+  },
+  {
+    "title": "Developing with Amazon DocumentDB",
+    "subcontent": [
+      {
+        "title": "Connect to DocumentDB",
+        "subcontent": [
+          { "title": "Connecting programmatically" },
+          { "title": "Connecting from outside an Amazon VPC" },
+          { "title": "Connecting as a replica set" },
+          { "title": "Connect using Studio 3T" },
+          { "title": "Connect using DataGrip" },
+          {
+            "title": "Connect using Amazon EC2",
+            "subcontent": [
+              { "title": "Connect Amazon EC2 automatically" },
+              { "title": "Connect Amazon EC2 manually" }
+            ]
+          },
+          {
+            "title": "Connect using the JDBC driver",
+            "subcontent": [
+              { "title": "Connect from Tableau Desktop" },
+              { "title": "Connect from DbVisualizer" },
+              { "title": "JDBC automatic schema generation" },
+              { "title": "SQL support and limitations" },
+              { "title": "Troubleshooting" }
+            ]
+          },
+          {
+            "title": "Connect using the ODBC driver",
+            "subcontent": [
+              { "title": "Setting up the ODBC driver in Windows" },
+              { "title": "Connect from Microsoft Excel" },
+              { "title": "Connect from Microsoft Power BI Desktop" },
+              { "title": "Automatic schema generation" },
+              { "title": "SQL support and limitations" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Program with DocumentDB",
+        "subcontent": [
+          {
+            "title": "DocumentDB Java programming guide",
+            "subcontent": [
+              { "title": "Connecting with a Java driver" },
+              { "title": "CRUD operations with Java" },
+              { "title": "Index management with Java" },
+              { "title": "Event-driven programming" }
+            ]
+          },
+          { "title": "Using JSON schema validation" }
+        ]
+      },
+      { "title": "Quotas and limits" }
+    ]
+  },
+  {
+    "title": "Querying",
+    "subcontent": [
+      { "title": "Geospatial data" },
+      { "title": "Partial index" },
+      { "title": "Text search" }
+    ]
+  },
+  {
+    "title": "Troubleshooting",
+    "subcontent": [
+      { "title": "Connection issues" },
+      { "title": "Indexes" },
+      { "title": "Performance and resource utilization" },
+      { "title": "Garbage collection" }
+    ]
+  },
+  {
+    "title": "Resource management API reference",
+    "subcontent": [
+      {
+        "title": "Actions",
+        "subcontent": [
+          {
+            "title": "Amazon DocumentDB (with MongoDB compatibility)",
+            "subcontent": [
+              { "title": "AddSourceIdentifierToSubscription" },
+              { "title": "AddTagsToResource" },
+              { "title": "ApplyPendingMaintenanceAction" },
+              { "title": "CopyDBClusterParameterGroup" },
+              { "title": "CopyDBClusterSnapshot" },
+              { "title": "CreateDBCluster" },
+              { "title": "CreateDBClusterParameterGroup" },
+              { "title": "CreateDBClusterSnapshot" },
+              { "title": "CreateDBInstance" },
+              { "title": "CreateDBSubnetGroup" },
+              { "title": "CreateEventSubscription" },
+              { "title": "CreateGlobalCluster" },
+              { "title": "DeleteDBCluster" },
+              { "title": "DeleteDBClusterParameterGroup" },
+              { "title": "DeleteDBClusterSnapshot" },
+              { "title": "DeleteDBInstance" },
+              { "title": "DeleteDBSubnetGroup" },
+              { "title": "DeleteEventSubscription" },
+              { "title": "DescribeCertificates" },
+              { "title": "DescribeDBClusterParameterGroups" },
+              { "title": "DescribeDBClusterParameters" },
+              { "title": "DescribeDBClusters" },
+              { "title": "DescribeDBClusterSnapshotAttributes" },
+              { "title": "DescribeDBClusterSnapshots" },
+              { "title": "DescribeDBEngineVersions" },
+              { "title": "DescribeDBInstances" },
+              { "title": "DescribeDBSubnetGroups" },
+              { "title": "DescribeEngineDefaultClusterParameters" },
+              { "title": "DescribeEventCategories" },
+              { "title": "DescribeEvents" },
+              { "title": "DescribeEventSubscriptions" },
+              { "title": "DescribeGlobalClusters" },
+              { "title": "DescribeOrderableDBInstanceOptions" },
+              { "title": "DescribePendingMaintenanceActions" },
+              { "title": "FailoverDBCluster" },
+              { "title": "ListTagsForResource" },
+              { "title": "ModifyDBCluster" },
+              { "title": "ModifyDBClusterParameterGroup" },
+              { "title": "ModifyDBClusterSnapshotAttribute" },
+              { "title": "ModifyDBInstance" },
+              { "title": "ModifyDBSubnetGroup" },
+              { "title": "ModifyEventSubscription" },
+              { "title": "ModifyGlobalCluster" },
+              { "title": "RebootDBInstance" },
+              { "title": "RemoveFromGlobalCluster" },
+              { "title": "RemoveSourceIdentifierFromSubscription" },
+              { "title": "RemoveTagsFromResource" },
+              { "title": "ResetDBClusterParameterGroup" },
+              { "title": "RestoreDBClusterFromSnapshot" },
+              { "title": "RestoreDBClusterToPointInTime" },
+              { "title": "StartDBCluster" },
+              { "title": "StopDBCluster" },
+              { "title": "SwitchoverGlobalCluster" }
+            ]
+          },
+          {
+            "title": "Amazon DocumentDB Elastic Clusters",
+            "subcontent": [
+              { "title": "ApplyPendingMaintenanceAction" },
+              { "title": "CopyClusterSnapshot" },
+              { "title": "CreateCluster" },
+              { "title": "CreateClusterSnapshot" },
+              { "title": "DeleteCluster" },
+              { "title": "DeleteClusterSnapshot" },
+              { "title": "GetCluster" },
+              { "title": "GetClusterSnapshot" },
+              { "title": "GetPendingMaintenanceAction" },
+              { "title": "ListClusters" },
+              { "title": "ListClusterSnapshots" },
+              { "title": "ListPendingMaintenanceActions" },
+              { "title": "ListTagsForResource" },
+              { "title": "RestoreClusterFromSnapshot" },
+              { "title": "StartCluster" },
+              { "title": "StopCluster" },
+              { "title": "TagResource" },
+              { "title": "UntagResource" },
+              { "title": "UpdateCluster" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Data Types",
+        "subcontent": [
+          {
+            "title": "Amazon DocumentDB (with MongoDB compatibility)",
+            "subcontent": [
+              { "title": "AvailabilityZone" },
+              { "title": "Certificate" },
+              { "title": "CertificateDetails" },
+              { "title": "CloudwatchLogsExportConfiguration" },
+              { "title": "ClusterMember" },
+              { "title": "ClusterMemberSecret" },
+              { "title": "DBCluster" },
+              { "title": "DBClusterMember" },
+              { "title": "DBClusterParameterGroup" },
+              { "title": "DBClusterRole" },
+              { "title": "DBClusterSnapshot" },
+              { "title": "DBClusterSnapshotAttribute" },
+              { "title": "DBClusterSnapshotAttributeValue" },
+              { "title": "DBEngineVersion" },
+              { "title": "DBInstance" },
+              { "title": "DBInstanceStatusInfo" },
+              { "title": "DBSubnetGroup" },
+              { "title": "EngineDefaults" },
+              { "title": "Event" },
+              { "title": "EventCategoriesMap" },
+              { "title": "EventSubscription" },
+              { "title": "Filter" },
+              { "title": "GlobalCluster" },
+              { "title": "GlobalClusterMember" },
+              { "title": "OrderableDBInstanceOption" },
+              { "title": "Parameter" },
+              { "title": "PendingCloudwatchLogsExports" },
+              { "title": "PendingMaintenanceAction" },
+              { "title": "PendingModifiedValues" },
+              { "title": "ResourcePendingMaintenanceActions" },
+              { "title": "ServerlessV2ScalingConfiguration" },
+              { "title": "ServerlessV2ScalingConfigurationInfo" },
+              { "title": "Subnet" },
+              { "title": "Tag" },
+              { "title": "UpgradeTarget" },
+              { "title": "VpcSecurityGroupMembership" }
+            ]
+          },
+          {
+            "title": "Amazon DocumentDB Elastic Clusters",
+            "subcontent": [
+              { "title": "Cluster" },
+              { "title": "ClusterList" },
+              { "title": "ClusterSnapshot" },
+              { "title": "ClusterSnapshotList" },
+              { "title": "PendingMaintenanceAction" },
+              { "title": "ResourcePendingMaintenanceActions" },
+              { "title": "Shard" },
+              { "title": "ValidationExceptionField" }
+            ]
+          }
+        ]
+      },
+      { "title": "Common Errors" },
+      { "title": "Common Parameters" },
+      { "title": "Quotas" }
+    ]
+  },
+  {
+    "title": "Release notes"
+  },
+  { "title": "Document history" }
+]
