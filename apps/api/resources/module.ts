@@ -21,7 +21,7 @@ import { QueryBus } from "./shared/utils/cqrs/query-bus";
 export class ResourceModule implements IModule {
   static module = "ResourceModule" as const;
   Startup(mono: IMonolith): Error | null {
-    const bookRepo = BookRepo.New(COLLECTION_NAMES.BOOKS, mono.db);
+    const resourceRepo = BookRepo.New(COLLECTION_NAMES.BOOKS, mono.db);
     const authorRepo = AuthorRepo.New(COLLECTION_NAMES.AUTHORS, mono.db);
     const onlineCoursesRepo = OnlineCourseRepo.New(COLLECTION_NAMES.COURSES, mono.db);
     const documentationRepo = DocumentationRepo.New(COLLECTION_NAMES.DOCUMENTATIONS, mono.db);
@@ -31,7 +31,7 @@ export class ResourceModule implements IModule {
 
     // commands
     const commandBus = new CommandBus();
-    const createBookHandler = new CreateBookHandler(bookRepo);
+    const createBookHandler = new CreateBookHandler(resourceRepo);
     const createLearningPathHandler = new CreateLearningPathHandler(learningPathRepo);
     const createOnlineCourseHandler = new CreateOnlineCourseHandler(onlineCoursesRepo);
     const createDocumentationHandler = new CreateDocumentationHandler(documentationRepo);
@@ -44,11 +44,11 @@ export class ResourceModule implements IModule {
     commandBus.register(commandHandlers);
     // queries
     const queryBus = new QueryBus();
-    const getBookHander = new GetBookHandler(bookRepo);
-    const getBooksHander = new GetBooksHandler(bookRepo);
+    const getBookHander = new GetBookHandler(resourceRepo);
+    const getBooksHander = new GetBooksHandler(resourceRepo);
     const getDocumentations = new GetDocumentationsHandler(documentationRepo);
     const getOnlineCoursesHandler = new GetOnlineCoursesHandler(onlineCoursesRepo);
-    const searchBooksHandler = new SearchBooksHandler(bookRepo);
+    const searchBooksHandler = new SearchBooksHandler(resourceRepo);
     const getLearningPathsHandler = new GetLearningPathsHandler(learningPathRepo);
     const queryHandlers = [
       getBookHander,

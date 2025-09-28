@@ -14,19 +14,19 @@ export class CreateBooksSeeder {
   constructor(private readonly mono: IMonolithSeeder) {}
 
   private getApp(): IApplication {
-    const bookRepo = BookRepo.New(COLLECTION_NAMES.BOOKS, this.mono.db);
+    const resourceRepo = BookRepo.New(COLLECTION_NAMES.BOOKS, this.mono.db);
     const authorRepo = BookRepo.New(COLLECTION_NAMES.AUTHORS, this.mono.db);
     const categoryRepo = BookRepo.New(COLLECTION_NAMES.CATEGORIES, this.mono.db);
     const tagRepo = BookRepo.New(COLLECTION_NAMES.TAGS, this.mono.db);
 
     // commands
     const commandBus = new CommandBus();
-    const createBookHandler = new CreateBookHandler(bookRepo);
+    const createBookHandler = new CreateBookHandler(resourceRepo);
     const commandHandlers = [createBookHandler];
     commandBus.register(commandHandlers);
     // queries
     const queryBus = new QueryBus();
-    const getBookHander = new GetBookHandler(bookRepo);
+    const getBookHander = new GetBookHandler(resourceRepo);
     const queryHandlers = [getBookHander];
     queryBus.register(queryHandlers);
 
@@ -58,7 +58,7 @@ export class CreateBooksSeeder {
       }
 
       data.isbn = formatISBN(data.isbn);
-      const response = await app.createBook(data);
+      const response = await app.createResource(data);
       if (isLeft(response)) {
         console.log(">>data", data);
         console.error(response.left.code);

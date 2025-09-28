@@ -1,1 +1,3 @@
-export * from "./book.constants";
+export enum ResourceTypes {
+  BOOK = "book",
+}

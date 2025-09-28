@@ -1,38 +1,29 @@
 import { Id } from "@/shared/value-objects";
-import { BookAuthors, BookTitle } from "../value-objects";
+import { ResourceTypes } from "../constants";
 
-export type BookBaseProps = Readonly<{
+export type BookProps = {
   id: Id;
-  title: BookTitle;
-  authors: BookAuthors;
-}>;
+  title: string;
+};
 
-export abstract class BookBase {
+export class Book {
   #id: Id;
-  #title: BookTitle;
-  #authors: BookAuthors;
-  constructor(props: BookBaseProps) {
+  #title: string;
+  readonly type = ResourceTypes.BOOK;
+  constructor(props: BookProps) {
     this.#title = props.title;
     this.#id = props.id;
-    this.#authors = props.authors;
+  }
+
+  static create(props: BookProps): Book {
+    return new Book(props);
   }
 
   id(): Id {
     return this.#id;
   }
 
-  title(): BookTitle {
+  title(): string {
     return this.#title;
-  }
-
-  authors(): BookAuthors {
-    return this.#authors;
-  }
-
-  toPrimitives() {
-    return {
-      id: this.#id,
-      authors: this.#authors,
-    };
   }
 }

@@ -1,24 +1,24 @@
-import { IRepository } from "@/books/domain/contracts";
-import { BookRepository } from "@/books/infrastructure/repositories/book.repository";
+import { IResourceRepo } from "@/books/domain/contracts";
+import { ResourceRepo } from "@/books/infrastructure/repositories";
 import { COLLECTION_NAMES } from "@/books/infrastructure/schemas";
 import { ClientSession, Db } from "mongodb";
 
 export interface IUnitOfWork {
-  bookRepo: IRepository;
+  resourceRepo: IResourceRepo;
 }
 
 export class UnitOfWork implements IUnitOfWork {
-  #bookRepo?: IRepository;
+  #resourceRepo?: IResourceRepo;
   constructor(
     private db: Db,
     private session: ClientSession,
   ) {}
 
-  get bookRepo(): IRepository {
-    if (!this.#bookRepo) {
-      this.#bookRepo = new BookRepository(this.db.collection(COLLECTION_NAMES.BOOKS), this.session);
+  get resourceRepo(): IResourceRepo {
+    if (!this.#resourceRepo) {
+      this.#resourceRepo = new ResourceRepo(this.db.collection(COLLECTION_NAMES.BOOKS), this.session);
     }
-    return this.#bookRepo;
+    return this.#resourceRepo;
   }
   async commit(): Promise<void> {
     // await this._factoringAuctionRepo?.persist()

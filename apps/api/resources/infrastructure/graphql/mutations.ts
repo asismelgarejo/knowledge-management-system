@@ -32,7 +32,7 @@ export const MutationType = new GraphQLObjectType<any, AppContext>({
           if (e.section) return [...prev, { name: e.section.name, chapters: e.section.chapters }];
           return [...prev, e.chapter];
         }, [] as any);
-        const response = await application.createBook({ ...input, contents });
+        const response = await application.createResource({ ...input, contents });
         if (isLeft(response)) throw new GraphQLError(response.left.code, { extensions: { code: response.left.code } });
         const data = response.right;
 

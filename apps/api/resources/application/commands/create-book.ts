@@ -29,7 +29,7 @@ type CreateBookCommandProps = {
 };
 
 @CommandDecorator()
-export class CreateBookCommand {
+export class CreateResourceCommand {
   authors: ObjectId[];
   categories: ObjectId[];
   contents: Content[];
@@ -58,10 +58,10 @@ export class CreateBookCommand {
 
 export type CreateBookErrors = BookErrors;
 
-@CommandHandlerDecorator(CreateBookCommand)
+@CommandHandlerDecorator(CreateResourceCommand)
 export class CreateBookHandler implements ICommandHandler {
   constructor(private readonly repo: IBookRepo) {}
-  async execute(command: CreateBookCommand): Promise<Either<CreateBookErrors | InvalidIdError, Book>> {
+  async execute(command: CreateResourceCommand): Promise<Either<CreateBookErrors | InvalidIdError, Book>> {
     const bookIdResp = Id.create();
     if (isLeft(bookIdResp)) return bookIdResp;
     const bookId = bookIdResp.right;

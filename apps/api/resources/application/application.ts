@@ -14,7 +14,7 @@ import { InvalidIdError } from "../shared/common-values";
 import { ICommandBus } from "../shared/utils/cqrs/command-bus";
 import { IQueryBus } from "../shared/utils/cqrs/query-bus";
 import {
-  CreateBookCommand,
+  CreateResourceCommand,
   CreateBookErrors,
   CreateDocumentationCommand,
   CreateDocumentationErrors,
@@ -113,7 +113,7 @@ type SearchBooksDTO = {
   search_term: string;
 };
 export interface IApplication {
-  createBook(data: CreateBookDTO): Promise<Either<CreateBookErrors | InvalidIdError, Book>>;
+  createResource(data: CreateBookDTO): Promise<Either<CreateBookErrors | InvalidIdError, Book>>;
   createLearningPath(data: CreateLearningPathDTO): Promise<Either<CreateLearningPathErrors, LearningPath>>;
   createOnlineCourse(data: OnlineCourseRequestDTO): Promise<Either<CreateOnlineCourseErrors, OnlineCourse>>;
   createDocumentation(data: DocumentationRequestDTO): Promise<Either<CreateDocumentationErrors, Documentation>>;
@@ -131,9 +131,9 @@ export class Application implements IApplication {
     private readonly queryBus: IQueryBus,
   ) {}
 
-  async createBook(data: CreateBookDTO) {
-    return await this.commandBus.execute<CreateBookCommand, Promise<Either<CreateBookErrors, Book>>>(
-      new CreateBookCommand(data),
+  async createResource(data: CreateBookDTO) {
+    return await this.commandBus.execute<CreateResourceCommand, Promise<Either<CreateBookErrors, Book>>>(
+      new CreateResourceCommand(data),
     );
   }
   async getDocumentations(data: DocumentationsDTO): Promise<Either<GetDocumentationsErrors, Documentation[]>> {

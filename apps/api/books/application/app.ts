@@ -1,25 +1,22 @@
 import { CommandBus, ICommandBus } from "@/shared/utils/cqrs/command-bus";
 import { Either } from "fp-ts/Either";
 import { ClientSession, Db } from "mongodb";
-import { Book } from "../domain/entities";
+import { Resource } from "../domain/entities";
 import { UnitOfWork } from "../shared/uow";
-import { CreateBookCommand, HandlerCreateBookCommand } from "./commands/create-book";
+import { CreateResourceCommand, HandlerCreateBookCommand } from "./commands/create-book";
 
 // DTO de entrada
-type CreateBookDTO = {
+type CreateResourceDTO = {
   title: string;
-  authors: string[];
 };
 
 export interface IApplication {
-  createBook(data: CreateBookDTO): Promise<Either<void, Book>>;
+  createResource(data: CreateResourceDTO): Promise<Either<void, Resource>>;
 }
 
-// Factoría para comandos (mapea nombre del método -> clase de comando)
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const commandRegistry: Record<string, new (props: any) => any> = {
-  createBook: CreateBookCommand,
-  // add here: updateBook: UpdateBookCommand, etc.
+  createResource: CreateResourceCommand,
 };
 
 // Proxy Application
