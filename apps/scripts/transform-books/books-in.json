@@ -25,11 +25,6 @@
     "Description": "This book is a comprehensive guide to building backend applications with Fastify, authored by its core contributors. It covers everything from the basics—plugins, routes, hooks, validation, and serialization—to advanced topics like authentication, testing, deployment, and performance optimization. Readers will build a real-world RESTful application, learn how to structure projects, integrate logging, monitoring, and CI/CD, and even migrate from monoliths to microservices. Later chapters explore GraphQL integration and leveraging TypeScript for type safety. Targeted at experienced backend developers, it equips readers to design, implement, and maintain scalable, performant, and production-ready Fastify applications."
   },
   {
-    "Name": "Adolescence",
-    "Extension": "pdf",
-    "Description": "This textbook offers a global, research-driven portrait of adolescence. It covers biological and cognitive changes; social transitions across cultures; the roles of families, peers, and schools; work, leisure, and media; and core psychosocial domains—identity, autonomy, intimacy, sexuality, and achievement. Throughout, it foregrounds inequality, immigration, poverty, discrimination, neurodiversity, and LGBTQ experiences, integrating UN, NCES, CDC, and OECD data. “Making the Cultural Connection” boxes prompt cross-cultural reflection. The final chapters address substance use, mental health, violence, and prevention. Overall, it links theory, international evidence, and policy-relevant insights to explain how context shapes adolescent development."
-  },
-  {
     "Name": "Advanced Git",
     "Extension": "pdf",
     "Description": "This book is a practical guide to mastering Git, written for both the curious and the frustrated. It demystifies Git’s internals while tackling the common pain points developers face, from merge conflicts to mysterious unstaged changes. Divided into two parts, it first dives into advanced Git operations—rebasing, stashing, rewriting history, and fixing mistakes—so readers can recover from tricky situations without starting fresh. The second part explores workflows like feature branching, Gitflow, forking, and centralized models, showing how different teams adapt Git to their needs. Overall, it equips developers to use Git with confidence and efficiency."

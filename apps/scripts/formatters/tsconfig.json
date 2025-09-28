@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "target": "ES2022",
+    "module": "nodenext",
+    "emitDecoratorMetadata": true
+  },
+  "include": ["**/*.ts", "tsconfig.json"],
+  "references": []
+}

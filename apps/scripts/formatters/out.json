@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "68d9bc681f13f9351430c9e7",
+    "title": "What is Amazon DocumentDB",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430c9e8",
+        "title": "How it works"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9e9",
+        "title": "What is a document database?",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430c9ea",
+            "title": "Use cases"
+          },
+          {
+            "id": "68d9bc681f13f9351430c9eb",
+            "title": "Understanding documents"
+          },
+          {
+            "id": "68d9bc681f13f9351430c9ec",
+            "title": "Working with documents"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430c9ed",
+        "title": "Get started guide"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9ee",
+        "title": "Quick start using AWS CloudFormation"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9ef",
+        "title": "MongoDB compatibility"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9f0",
+        "title": "Transactions"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9f1",
+        "title": "Best practices"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9f2",
+        "title": "Functional differences with MongoDB"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9f3",
+        "title": "Supported MongoDB APIs, operations, and data types"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430c9f4",
+    "title": "Generative AI",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430c9f5",
+        "title": "SageMaker Canvas"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9f6",
+        "title": "Vector Search"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430c9f7",
+    "title": "Migrating to DocumentDB",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430c9f8",
+        "title": "Quick start guide"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9f9",
+        "title": "Migration runbook"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430c9fa",
+    "title": "Upgrading DocumentDB",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430c9fb",
+        "title": "Engine version support dates"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9fc",
+        "title": "Upgrading the Amazon DocumentDB engine version"
+      },
+      {
+        "id": "68d9bc681f13f9351430c9fd",
+        "title": "Upgrading using AWS DMS"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430c9fe",
+    "title": "Extended Support",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430c9ff",
+        "title": "Extended Support charges"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca00",
+        "title": "Responsibilities"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430ca01",
+    "title": "Security",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430ca02",
+        "title": "Password management with AWS Secrets Manager"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca03",
+        "title": "Data protection",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca04",
+            "title": "Client-side field level encryption"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca05",
+            "title": "Encrypting data at rest"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca06",
+            "title": "Encrypting data in transit"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca07",
+            "title": "Key management"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca08",
+        "title": "Identity and Access Management",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca09",
+            "title": "How Amazon DocumentDB works with IAM"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca0a",
+            "title": "Identity-based policy examples"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca0b",
+            "title": "Troubleshooting"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca0c",
+            "title": "Managing access permissions to your Amazon DocumentDB resources"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca0d",
+            "title": "Using identity-based policies (IAM policies)"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca0e",
+            "title": "AWS managed policies for Amazon DocumentDB"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca0f",
+            "title": "Amazon DocumentDB API permissions reference"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca10",
+            "title": "Authentication using IAM identity"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca11",
+        "title": "Managing Amazon DocumentDB users"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca12",
+        "title": "Role-Based Access Control"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca13",
+        "title": "Logging and monitoring"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca14",
+        "title": "Updating certificates"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca15",
+        "title": "Updating certificates — GovCloud"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca16",
+        "title": "Compliance validation"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca17",
+        "title": "Resilience"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca18",
+        "title": "Infrastructure security"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca19",
+        "title": "VPC endpoints (AWS PrivateLink)"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca1a",
+        "title": "Security best practices"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca1b",
+        "title": "Auditing events"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430ca1c",
+    "title": "Backing up and restoring",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430ca1d",
+        "title": "Back up and restore: concepts"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca1e",
+        "title": "Understanding backup storage usage"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca1f",
+        "title": "Dumping, restoring, importing, and exporting data"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca20",
+        "title": "Cluster snapshot considerations"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca21",
+        "title": "Comparing automatic and manual snapshots"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca22",
+        "title": "Creating a manual cluster snapshot"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca23",
+        "title": "Copying a cluster snapshot"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca24",
+        "title": "Sharing a cluster snapshot"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca25",
+        "title": "Restoring from a cluster snapshot"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca26",
+        "title": "Restoring to a point in time"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca27",
+        "title": "Deleting a cluster snapshot"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430ca28",
+    "title": "Managing Amazon DocumentDB",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430ca29",
+        "title": "Operational tasks overview"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca2a",
+        "title": "Global clusters",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca2b",
+            "title": "Quick start guide"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca2c",
+            "title": "Managing global clusters"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca2d",
+            "title": "Connecting global clusters"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca2e",
+            "title": "Monitoring global clusters"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca2f",
+            "title": "Disaster recovery"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca30",
+        "title": "Managing clusters",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca31",
+            "title": "Understanding clusters"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca32",
+            "title": "Cluster settings"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca33",
+            "title": "Cluster storage configurations"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca34",
+            "title": "Determining a cluster’s status"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca35",
+            "title": "Cluster lifecycle",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430ca36",
+                "title": "Creating a cluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca37",
+                "title": "Describing clusters"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca38",
+                "title": "Modifying a cluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca39",
+                "title": "Determining pending maintenance"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca3a",
+                "title": "Patch updating a cluster’s engine version"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca3b",
+                "title": "Stopping and starting a cluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca3c",
+                "title": "Deleting a cluster"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430ca3d",
+            "title": "Scaling clusters"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca3e",
+            "title": "Cloning a volume for a cluster"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca3f",
+            "title": "Understanding cluster fault tolerance"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca40",
+        "title": "Managing instances",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca41",
+            "title": "Instance lifecycle",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430ca42",
+                "title": "Adding an instance"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca43",
+                "title": "Describing instances"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca44",
+                "title": "Modifying an instance"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca45",
+                "title": "Rebooting an instance"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca46",
+                "title": "Deleting an instance"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430ca47",
+            "title": "Managing instance classes"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca48",
+            "title": "NVMe-backed instances"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca49",
+        "title": "Managing subnet groups",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca4a",
+            "title": "Creating a subnet group"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca4b",
+            "title": "Describing a subnet group"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca4c",
+            "title": "Modifying a subnet group"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca4d",
+            "title": "Deleting a subnet group"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca4e",
+        "title": "High availability and replication",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca4f",
+            "title": "Failover"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca50",
+        "title": "Managing indexes"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca51",
+        "title": "Managing document compression"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca52",
+        "title": "Managing events"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca53",
+        "title": "Choosing regions and availability zones"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca54",
+        "title": "Managing cluster parameter groups",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca55",
+            "title": "Describing cluster parameter groups"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca56",
+            "title": "Creating cluster parameter groups"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca57",
+            "title": "Modifying cluster parameter groups"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca58",
+            "title": "Modifying clusters to use customized cluster parameter groups"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca59",
+            "title": "Copying cluster parameter groups"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca5a",
+            "title": "Resetting cluster parameter groups"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca5b",
+            "title": "Deleting cluster parameter groups"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca5c",
+        "title": "Cluster parameters reference",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca5d",
+            "title": "Modifying cluster parameters"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca5e",
+        "title": "Understanding endpoints",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca5f",
+            "title": "Finding a cluster’s endpoints"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca60",
+            "title": "Finding an instance’s endpoint"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca61",
+            "title": "Connecting to endpoints"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca62",
+        "title": "Understanding Amazon DocumentDB ARNs"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca63",
+        "title": "Tagging resources"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca64",
+        "title": "Maintaining Amazon DocumentDB"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca65",
+        "title": "Understanding service-linked roles"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca66",
+        "title": "Using change streams"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca67",
+        "title": "Using AWS Lambda with change streams"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430ca68",
+    "title": "Using elastic clusters",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430ca69",
+        "title": "How it works"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca6a",
+        "title": "Get started"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca6b",
+        "title": "Best practices"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca6c",
+        "title": "Managing elastic clusters",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca6d",
+            "title": "Managing elastic cluster snapshots"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca6e",
+            "title": "Stopping and starting an elastic cluster"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca6f",
+            "title": "Maintaining elastic clusters"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca70",
+        "title": "Data encryption at rest"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca71",
+        "title": "Service-linked roles"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430ca72",
+    "title": "Monitoring Amazon DocumentDB",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430ca73",
+        "title": "Monitoring a cluster's status"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca74",
+        "title": "Monitoring an instance's status"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca75",
+        "title": "Viewing Amazon DocumentDB recommendations"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca76",
+        "title": "Event subscriptions",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca77",
+            "title": "Subscribing to events"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca78",
+            "title": "Manage subscriptions"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca79",
+            "title": "Categories and messages"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430ca7a",
+        "title": "Monitoring Amazon DocumentDB with CloudWatch"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca7b",
+        "title": "Logging Amazon DocumentDB API calls with CloudTrail"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca7c",
+        "title": "Profiling operations"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca7d",
+        "title": "Monitoring with Performance Insights",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca7e",
+            "title": "Performance Insights concepts"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca7f",
+            "title": "Enabling and disabling Performance Insights"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca80",
+            "title": "Configuring access policies for Performance Insights"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca81",
+            "title": "Analyzing metrics with the Performance Insights dashboard",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430ca82",
+                "title": "Overview of the Performance Insights dashboard"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca83",
+                "title": "Opening the Performance Insights dashboard"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca84",
+                "title": "Analyzing database load by wait states"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca85",
+                "title": "Overview of the Top queries tab"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca86",
+                "title": "Zooming in on the database load chart"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430ca87",
+            "title": "Retrieving metrics with the Performance Insights API"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca88",
+            "title": "Amazon CloudWatch metrics for Performance Insights"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca89",
+            "title": "Performance Insights for counter metrics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430ca8a",
+    "title": "OpenSearch integration"
+  },
+  {
+    "id": "68d9bc681f13f9351430ca8b",
+    "title": "Using DocumentDB serverless",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430ca8c",
+        "title": "How serverless works"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca8d",
+        "title": "Serverless requirements and limitations"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca8e",
+        "title": "Creating a cluster that uses serverless"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca8f",
+        "title": "Migrating to serverless"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca90",
+        "title": "Managing serverless"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca91",
+        "title": "Serverless instance limits"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca92",
+        "title": "Serverless scaling configuration"
+      },
+      {
+        "id": "68d9bc681f13f9351430ca93",
+        "title": "Monitoring serverless"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430ca94",
+    "title": "Developing with Amazon DocumentDB",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430ca95",
+        "title": "Connect to DocumentDB",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430ca96",
+            "title": "Connecting programmatically"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca97",
+            "title": "Connecting from outside an Amazon VPC"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca98",
+            "title": "Connecting as a replica set"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca99",
+            "title": "Connect using Studio 3T"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca9a",
+            "title": "Connect using DataGrip"
+          },
+          {
+            "id": "68d9bc681f13f9351430ca9b",
+            "title": "Connect using Amazon EC2",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430ca9c",
+                "title": "Connect Amazon EC2 automatically"
+              },
+              {
+                "id": "68d9bc681f13f9351430ca9d",
+                "title": "Connect Amazon EC2 manually"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430ca9e",
+            "title": "Connect using the JDBC driver",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430ca9f",
+                "title": "Connect from Tableau Desktop"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa0",
+                "title": "Connect from DbVisualizer"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa1",
+                "title": "JDBC automatic schema generation"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa2",
+                "title": "SQL support and limitations"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa3",
+                "title": "Troubleshooting"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430caa4",
+            "title": "Connect using the ODBC driver",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430caa5",
+                "title": "Setting up the ODBC driver in Windows"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa6",
+                "title": "Connect from Microsoft Excel"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa7",
+                "title": "Connect from Microsoft Power BI Desktop"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa8",
+                "title": "Automatic schema generation"
+              },
+              {
+                "id": "68d9bc681f13f9351430caa9",
+                "title": "SQL support and limitations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430caaa",
+        "title": "Program with DocumentDB",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430caab",
+            "title": "DocumentDB Java programming guide",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430caac",
+                "title": "Connecting with a Java driver"
+              },
+              {
+                "id": "68d9bc681f13f9351430caad",
+                "title": "CRUD operations with Java"
+              },
+              {
+                "id": "68d9bc681f13f9351430caae",
+                "title": "Index management with Java"
+              },
+              {
+                "id": "68d9bc681f13f9351430caaf",
+                "title": "Event-driven programming"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430cab0",
+            "title": "Using JSON schema validation"
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430cab1",
+        "title": "Quotas and limits"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430cab2",
+    "title": "Querying",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430cab3",
+        "title": "Geospatial data"
+      },
+      {
+        "id": "68d9bc681f13f9351430cab4",
+        "title": "Partial index"
+      },
+      {
+        "id": "68d9bc681f13f9351430cab5",
+        "title": "Text search"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430cab6",
+    "title": "Troubleshooting",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430cab7",
+        "title": "Connection issues"
+      },
+      {
+        "id": "68d9bc681f13f9351430cab8",
+        "title": "Indexes"
+      },
+      {
+        "id": "68d9bc681f13f9351430cab9",
+        "title": "Performance and resource utilization"
+      },
+      {
+        "id": "68d9bc681f13f9351430caba",
+        "title": "Garbage collection"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430cabb",
+    "title": "Resource management API reference",
+    "subcontent": [
+      {
+        "id": "68d9bc681f13f9351430cabc",
+        "title": "Actions",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430cabd",
+            "title": "Amazon DocumentDB (with MongoDB compatibility)",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430cabe",
+                "title": "AddSourceIdentifierToSubscription"
+              },
+              {
+                "id": "68d9bc681f13f9351430cabf",
+                "title": "AddTagsToResource"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac0",
+                "title": "ApplyPendingMaintenanceAction"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac1",
+                "title": "CopyDBClusterParameterGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac2",
+                "title": "CopyDBClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac3",
+                "title": "CreateDBCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac4",
+                "title": "CreateDBClusterParameterGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac5",
+                "title": "CreateDBClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac6",
+                "title": "CreateDBInstance"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac7",
+                "title": "CreateDBSubnetGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac8",
+                "title": "CreateEventSubscription"
+              },
+              {
+                "id": "68d9bc681f13f9351430cac9",
+                "title": "CreateGlobalCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430caca",
+                "title": "DeleteDBCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cacb",
+                "title": "DeleteDBClusterParameterGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cacc",
+                "title": "DeleteDBClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cacd",
+                "title": "DeleteDBInstance"
+              },
+              {
+                "id": "68d9bc681f13f9351430cace",
+                "title": "DeleteDBSubnetGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cacf",
+                "title": "DeleteEventSubscription"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad0",
+                "title": "DescribeCertificates"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad1",
+                "title": "DescribeDBClusterParameterGroups"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad2",
+                "title": "DescribeDBClusterParameters"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad3",
+                "title": "DescribeDBClusters"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad4",
+                "title": "DescribeDBClusterSnapshotAttributes"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad5",
+                "title": "DescribeDBClusterSnapshots"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad6",
+                "title": "DescribeDBEngineVersions"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad7",
+                "title": "DescribeDBInstances"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad8",
+                "title": "DescribeDBSubnetGroups"
+              },
+              {
+                "id": "68d9bc681f13f9351430cad9",
+                "title": "DescribeEngineDefaultClusterParameters"
+              },
+              {
+                "id": "68d9bc681f13f9351430cada",
+                "title": "DescribeEventCategories"
+              },
+              {
+                "id": "68d9bc681f13f9351430cadb",
+                "title": "DescribeEvents"
+              },
+              {
+                "id": "68d9bc681f13f9351430cadc",
+                "title": "DescribeEventSubscriptions"
+              },
+              {
+                "id": "68d9bc681f13f9351430cadd",
+                "title": "DescribeGlobalClusters"
+              },
+              {
+                "id": "68d9bc681f13f9351430cade",
+                "title": "DescribeOrderableDBInstanceOptions"
+              },
+              {
+                "id": "68d9bc681f13f9351430cadf",
+                "title": "DescribePendingMaintenanceActions"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae0",
+                "title": "FailoverDBCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae1",
+                "title": "ListTagsForResource"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae2",
+                "title": "ModifyDBCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae3",
+                "title": "ModifyDBClusterParameterGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae4",
+                "title": "ModifyDBClusterSnapshotAttribute"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae5",
+                "title": "ModifyDBInstance"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae6",
+                "title": "ModifyDBSubnetGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae7",
+                "title": "ModifyEventSubscription"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae8",
+                "title": "ModifyGlobalCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cae9",
+                "title": "RebootDBInstance"
+              },
+              {
+                "id": "68d9bc681f13f9351430caea",
+                "title": "RemoveFromGlobalCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430caeb",
+                "title": "RemoveSourceIdentifierFromSubscription"
+              },
+              {
+                "id": "68d9bc681f13f9351430caec",
+                "title": "RemoveTagsFromResource"
+              },
+              {
+                "id": "68d9bc681f13f9351430caed",
+                "title": "ResetDBClusterParameterGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430caee",
+                "title": "RestoreDBClusterFromSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430caef",
+                "title": "RestoreDBClusterToPointInTime"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf0",
+                "title": "StartDBCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf1",
+                "title": "StopDBCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf2",
+                "title": "SwitchoverGlobalCluster"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430caf3",
+            "title": "Amazon DocumentDB Elastic Clusters",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430caf4",
+                "title": "ApplyPendingMaintenanceAction"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf5",
+                "title": "CopyClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf6",
+                "title": "CreateCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf7",
+                "title": "CreateClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf8",
+                "title": "DeleteCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430caf9",
+                "title": "DeleteClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cafa",
+                "title": "GetCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cafb",
+                "title": "GetClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cafc",
+                "title": "GetPendingMaintenanceAction"
+              },
+              {
+                "id": "68d9bc681f13f9351430cafd",
+                "title": "ListClusters"
+              },
+              {
+                "id": "68d9bc681f13f9351430cafe",
+                "title": "ListClusterSnapshots"
+              },
+              {
+                "id": "68d9bc681f13f9351430caff",
+                "title": "ListPendingMaintenanceActions"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb00",
+                "title": "ListTagsForResource"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb01",
+                "title": "RestoreClusterFromSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb02",
+                "title": "StartCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb03",
+                "title": "StopCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb04",
+                "title": "TagResource"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb05",
+                "title": "UntagResource"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb06",
+                "title": "UpdateCluster"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430cb07",
+        "title": "Data Types",
+        "subcontent": [
+          {
+            "id": "68d9bc681f13f9351430cb08",
+            "title": "Amazon DocumentDB (with MongoDB compatibility)",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430cb09",
+                "title": "AvailabilityZone"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb0a",
+                "title": "Certificate"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb0b",
+                "title": "CertificateDetails"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb0c",
+                "title": "CloudwatchLogsExportConfiguration"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb0d",
+                "title": "ClusterMember"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb0e",
+                "title": "ClusterMemberSecret"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb0f",
+                "title": "DBCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb10",
+                "title": "DBClusterMember"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb11",
+                "title": "DBClusterParameterGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb12",
+                "title": "DBClusterRole"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb13",
+                "title": "DBClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb14",
+                "title": "DBClusterSnapshotAttribute"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb15",
+                "title": "DBClusterSnapshotAttributeValue"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb16",
+                "title": "DBEngineVersion"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb17",
+                "title": "DBInstance"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb18",
+                "title": "DBInstanceStatusInfo"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb19",
+                "title": "DBSubnetGroup"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb1a",
+                "title": "EngineDefaults"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb1b",
+                "title": "Event"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb1c",
+                "title": "EventCategoriesMap"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb1d",
+                "title": "EventSubscription"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb1e",
+                "title": "Filter"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb1f",
+                "title": "GlobalCluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb20",
+                "title": "GlobalClusterMember"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb21",
+                "title": "OrderableDBInstanceOption"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb22",
+                "title": "Parameter"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb23",
+                "title": "PendingCloudwatchLogsExports"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb24",
+                "title": "PendingMaintenanceAction"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb25",
+                "title": "PendingModifiedValues"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb26",
+                "title": "ResourcePendingMaintenanceActions"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb27",
+                "title": "ServerlessV2ScalingConfiguration"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb28",
+                "title": "ServerlessV2ScalingConfigurationInfo"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb29",
+                "title": "Subnet"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb2a",
+                "title": "Tag"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb2b",
+                "title": "UpgradeTarget"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb2c",
+                "title": "VpcSecurityGroupMembership"
+              }
+            ]
+          },
+          {
+            "id": "68d9bc681f13f9351430cb2d",
+            "title": "Amazon DocumentDB Elastic Clusters",
+            "subcontent": [
+              {
+                "id": "68d9bc681f13f9351430cb2e",
+                "title": "Cluster"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb2f",
+                "title": "ClusterList"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb30",
+                "title": "ClusterSnapshot"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb31",
+                "title": "ClusterSnapshotList"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb32",
+                "title": "PendingMaintenanceAction"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb33",
+                "title": "ResourcePendingMaintenanceActions"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb34",
+                "title": "Shard"
+              },
+              {
+                "id": "68d9bc681f13f9351430cb35",
+                "title": "ValidationExceptionField"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "68d9bc681f13f9351430cb36",
+        "title": "Common Errors"
+      },
+      {
+        "id": "68d9bc681f13f9351430cb37",
+        "title": "Common Parameters"
+      },
+      {
+        "id": "68d9bc681f13f9351430cb38",
+        "title": "Quotas"
+      }
+    ]
+  },
+  {
+    "id": "68d9bc681f13f9351430cb39",
+    "title": "Release notes"
+  },
+  {
+    "id": "68d9bc681f13f9351430cb3a",
+    "title": "Document history"
+  }
+]
