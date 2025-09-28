@@ -270,7 +270,37 @@
     "Description": ""
   },
   {
+    "Name": "Distributed Systems with Node.js_ Building Enterprise",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Domain modeling made functional",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Domain-Driven Design with Golang",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Domain-Driven Refactoring",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Driving DevOps with Value Stream Management",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Effective Concurrency in Go",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "ElasticSearch 8.x cookbook",
     "Extension": "pdf",
     "Description": ""
   },
@@ -280,13 +310,93 @@
     "Description": ""
   },
   {
-    "Name": "Enhanced Test Automation with WebdriverIO",
+    "Name": "Enhanced Test Automation with WebdriverIO (anonymous) (Z-Library)",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Entrepreneurial Small Business",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "ENTREPRENEURSHIP",
     "Extension": "pdf",
     "Description": ""
   },
   {
     "Name": "Essential Computer Hardware",
     "Extension": "epub",
+    "Description": ""
+  },
+  {
+    "Name": "Essential Cryptography for JavaScript Developers",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Essentials of Economics",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Essentials of Investments",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Essentials of Marketing Research",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Essentials of Marketing",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Event-Driven Architecture in Golang",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Financial accounting",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Focus on Personal Finance 7TH",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Foundations of Financial Management",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Full-Stack Web Development with Go",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Functional Programming in Go",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Functional Python Programming",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Fundamentals of corporate finance",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Fundamentals of Financial Accounting",
+    "Extension": "pdf",
     "Description": ""
   },
   {
@@ -320,6 +430,16 @@
     "Description": ""
   },
   {
+    "Name": "Get Your Hands Dirty on Clean Architecture",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Getting Started with Elastic Stack 8.0",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "GitHub Actions Cookbook",
     "Extension": "epub",
     "Description": ""
@@ -330,7 +450,37 @@
     "Description": ""
   },
   {
+    "Name": "Going IT Alone",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "gRPC Go for Professionals",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "gRPC Microservices in Go",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Hands-On Agile Software Development with JIRA",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Hands-On Computer Vision with Detectron2",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Hands-On Data Structures and Algorithms with Python",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Hands-On Microservices with JavaScript",
     "Extension": "pdf",
     "Description": ""
   },
@@ -345,12 +495,27 @@
     "Description": ""
   },
   {
+    "Name": "Hands-On Web Scraping with Python",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Implementing DevSecOps Practices",
     "Extension": "pdf",
     "Description": ""
   },
   {
     "Name": "Implementing Identity Management on AWS",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Implementing Multifactor Authentication",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Incident Response in the Age of Cloud",
     "Extension": "pdf",
     "Description": ""
   },
@@ -365,12 +530,107 @@
     "Description": ""
   },
   {
+    "Name": "Intimate Relationships",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Introducing EventStorming",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "INTRODUCTORY FINANCIAL ACCOUNTING FOR BUSINESS",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Investments",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Jira 8 Essentials",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "jwt-handbook-v0_14_1",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Kibana 8.x",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Kubernetes",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Leadership",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Learn Data Structures and Algorithms with Golang",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Learn Grafana 10.x",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Learn Linux Shell Scripting",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Learn PostgreSQL",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Learning DevOps",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Learning JavaScript Data Structures and Algorithms",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Learning Microsoft Project 2019",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Learning OpenCV 5 Computer Vision with Python",
     "Extension": "pdf",
     "Description": ""
   },
   {
+    "Name": "Life The Essentials of Human Development",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Lift Your Impact",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "LLM Design Patterns",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Logging in Action",
     "Extension": "pdf",
     "Description": ""
   },
@@ -381,6 +641,21 @@
   },
   {
     "Name": "Machine Learning with Amazon SageMaker",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Malware Science",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Marketing Automation with Mailchimp",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "MASTERING AMAZON EC2",
     "Extension": "pdf",
     "Description": ""
   },
@@ -400,6 +675,56 @@
     "Description": ""
   },
   {
+    "Name": "Mastering Docker Enhance",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering Elastic Kubernetes",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering GitHub Actions",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering Go",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering JavaScript Functional Programming",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering Kubernetes",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering Linux shell scripting",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering MongoDB 6.x",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering MongoDB 7.0",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering Node.js Web Development Go",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Mastering Prometheus",
     "Extension": "pdf",
     "Description": ""
@@ -407,6 +732,16 @@
   {
     "Name": "Mastering Python Design Patterns",
     "Extension": "epub",
+    "Description": ""
+  },
+  {
+    "Name": "Mastering TypeScript",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Microservices with Go",
+    "Extension": "pdf",
     "Description": ""
   },
   {
@@ -425,7 +760,32 @@
     "Description": ""
   },
   {
+    "Name": "Modern Full-Stack React Projects",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Modern Generative AI with ChatGPT and OpenAI Models",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Modern Time Series Forecasting with Python",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Money, Banking and Financial Markets",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "MongoDB Fundamentals",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Negotiation ISE",
     "Extension": "pdf",
     "Description": ""
   },
@@ -440,12 +800,57 @@
     "Description": ""
   },
   {
+    "Name": "Nginx HTTP Server",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Node Cookbook",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Node.js Design Patterns",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Observability with Grafana",
     "Extension": "pdf",
     "Description": ""
   },
   {
+    "Name": "Odoo 15 Development Essentials",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Odoo Development Cookbook",
+    "Extension": "epub",
+    "Description": ""
+  },
+  {
+    "Name": "Operations and Supply Chain Management",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Optimizing Databricks Workloads",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Paragraphs and Essays",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Perfect Phrases for ESL",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Personal Finance",
     "Extension": "pdf",
     "Description": ""
   },
@@ -470,6 +875,21 @@
     "Description": ""
   },
   {
+    "Name": "Principles of Corporate Finance",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Principles of Economics",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Protocol Buffers Handbook",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Python Essentials for AWS Cloud Developers",
     "Extension": "pdf",
     "Description": ""
@@ -490,6 +910,41 @@
     "Description": ""
   },
   {
+    "Name": "RabbitMQ essentials",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Rapid Application Development with AWS Amplify",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Real Estate Finance & Investments",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Reconnaissance for Ethical Hackers",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Redis Stack for Application Modernization",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Research Design and Methods",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Rogue Waves",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Running Windows Containers on AWS",
     "Extension": "pdf",
     "Description": ""
@@ -500,12 +955,67 @@
     "Description": ""
   },
   {
+    "Name": "Small Business Management",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Software Architecture for Busy Developers",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Software Architecture for Web Developers",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Software Requirements",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Software Testing Strategies",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Solutions Architect's Handbook",
     "Extension": "pdf",
     "Description": ""
   },
   {
+    "Name": "StartupPro",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Statistics for Engineers and Scientists",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Stocks for the Long Run",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Strength Training",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "Supercharged Coding with GenAI",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Supercharging Node.js Applications with Sequelize",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Terraform in Action-Manning",
     "Extension": "pdf",
     "Description": ""
   },
@@ -520,7 +1030,47 @@
     "Description": ""
   },
   {
+    "Name": "The Art of Data-Driven Business",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "The Art Of Public Speaking",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "The Beginner’s Guide to DaVinci Resolve 16",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "The Future of Finance with ChatGPT and Power BI",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "The Go Workshop",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "The Infinite Retina",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "The Kubernetes Workshop",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
     "Name": "The Official Guide to Mermaid.js",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "The Pandas Workshop",
     "Extension": "pdf",
     "Description": ""
   },
@@ -536,6 +1086,26 @@
   },
   {
     "Name": "The Ultimate Docker Container",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Thriving on Overload",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Time Series Indexing",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "TLS Cryptography In-Depth",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "TypeScript 4 Design Patterns and Best Practices",
     "Extension": "pdf",
     "Description": ""
   },
@@ -559,364 +1129,34 @@
     "Extension": "epub",
     "Description": ""
   },
-
+  {
+    "Name": "Vector Search for Practitioners with Elastic",
+    "Extension": "pdf",
+    "Description": ""
+  },
+  {
+    "Name": "Video Editing Made Easy with DaVinci Resolve 18",
+    "Extension": "pdf",
+    "Description": ""
+  },
   {
     "Name": "Web App Development Made Simple with Streamlit",
     "Extension": "epub",
     "Description": ""
   },
   {
-    "Name": "Zero Trust Overview and Playbook Introduction",
+    "Name": "Windows Ransomware Detection and Protection",
     "Extension": "pdf",
     "Description": ""
   },
   {
-    "Name": "Machine Learning with Python",
+    "Name": "Winning the Loser's Game",
     "Extension": "pdf",
-    "Description": "A practical introduction to machine learning using Python that covers core ML concepts (supervised/unsupervised learning), data preprocessing, model selection, and implementation with common Python libraries (scikit-learn, pandas, NumPy). Suitable for engineers who want a hands-on, code-first path from data preparation to training and evaluation. Variants of this title exist (introductory O’Reilly-style guides and Springer titles focused on theory + implementation).",
-    "Source": ":contentReference[oaicite:0]{index=0}"
+    "Description": ""
   },
   {
-    "Name": "Clean Code with Typescript",
+    "Name": "Zero Trust Overview and Playbook Introduction",
     "Extension": "pdf",
-    "Description": "A practical guide to writing maintainable, production-ready TypeScript code. Focuses on clean coding principles applied to modern TypeScript: strong typing, modular architecture, testing, patterns for scalability, and best practices for building robust web applications. (Publisher listings show Packt / O’Reilly catalogue entries with table of contents and preview pages.)",
-    "Source": ":contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "Name": "Architecting Intelligent Software",
-    "Extension": "pdf",
-    "Description": "A handbook for designing AI-enabled systems that balances traditional software architecture with machine-learning components. Covers system design patterns for robustness and scalability, integration of models into production, considerations for data pipelines, and governance/observability of AI components in real systems.",
-    "Source": ":contentReference[oaicite:2]{index=2}"
-  },
-  {
-    "Name": "30 Agents Every AI Engineer Must Build",
-    "Extension": "pdf",
-    "Description": "A pragmatic, example-driven book that presents 30 concrete agent designs (verticalized LLM agents) across domains (healthcare, finance, ops). Each agent shows how to transform LLMs into autonomous or semi-autonomous components with prompt/chain patterns, tool integrations, memory, planning, and evaluation guidance.",
-    "Source": ":contentReference[oaicite:3]{index=3}"
-  },
-    {
-    "Name": "Getting Started with the Model Context Protocol",
-    "Extension": "pdf",
-    "Description": "A beginner’s guide to Model Context Protocol (MCP) showing how to build structured, context-aware agent systems. It introduces core MCP roles (Planner, Retriever, Executor, Validator, Critic), schema design, workflows, tool integration, and deployment challenges. The book also frames MCP as a way to shift from ad hoc prompt chaining to protocol-driven AI architectures. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Name": "Cybersecurity Architect's Handbook",
-    "Extension": "pdf",
-    "Description": "A comprehensive, end-to-end guide for designing, implementing, and maintaining enterprise security architectures. It covers foundational principles, security domains (network, identity, application, data), threat modeling, cloud security, security governance, and modern practices for architecture in hybrid/multi-cloud environments. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "Name": "Cloud Solution Architect's Career Master Plan",
-    "Extension": "pdf",
-    "Description": "A roadmap and playbook for professionals aiming to become cloud solution architects. It discusses required skills, educational pathways, professional branding, career progression, networking strategies, and domain knowledge in cloud (architecture, design decisions, trade-offs). :contentReference[oaicite:2]{index=2}"
-  },
-  {
-    "Name": "Cybersecurity Architect's Handbook",
-    "Extension": "pdf",
-    "Description": "Same as above: a detailed reference for cybersecurity architects covering full security architecture life cycle, domain knowledge across cloud, identity, governance, etc. :contentReference[oaicite:3]{index=3}"
-  },
-   {
-    "Name": "Solutions Architect's Handbook",
-    "Extension": "pdf",
-    "Description": "A guide to designing scalable, efficient, and robust architectures. The book covers architecture principles and patterns, cloud migrations, modernization of legacy systems, operational excellence, and emerging technologies (IoT, generative AI). It’s aimed at helping solutions architects build real-world systems and evolve in their roles. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Name": "Generative AI for Cloud Solutions",
-    "Extension": "pdf",
-    "Description": "Covers how to architect and deploy generative AI applications in a cloud environment. Topics include basics of cloud computing + generative AI, scaling, security, governance, prompt engineering, fine-tuning, RAG, AI infrastructure, and end-to-end deployment. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "Name": "Enterprise-Grade Hybrid and Multi-Cloud Strategies",
-    "Extension": "pdf",
-    "Description": "Vendor-agnostic strategies for building hybrid & multicloud architectures at enterprise scale. The book includes case studies, design frameworks, governance models, migration pathways, and trade-offs when combining private, public, and multi-cloud resources. :contentReference[oaicite:2]{index=2}"
-  },
-  {
-    "Name": "Hands-On Microservices with JavaScript",
-    "Extension": "pdf",
-    "Description": "A hands-on guide to building scalable microservices using JavaScript (Node.js), Docker, and related tooling. It teaches service decomposition, communication patterns (sync/async), CI/CD, deployment, monitoring, and best practices via real examples. :contentReference[oaicite:3]{index=3}"
-  },
-   {
-    "Name": "Building Resilient Architectures on AWS",
-    "Extension": "pdf",
-    "Description": "A practical guide to designing, building, and operating resilient, fault-tolerant systems on AWS. It teaches how to apply AWS Well-Architected resilience principles, design multi-region and cell architectures, use chaos engineering, handle graceful degradation, backup strategies, monitoring, and disaster recovery in real world AWS environments. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Name": "AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide",
-    "Extension": "pdf",
-    "Description": "A certification preparation guide aligned to the AWS SAA-C03 exam objectives. It helps you master AWS core services, design secure, resilient and cost-optimized architectures, interpret exam questions, and includes practice questions and guidance. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "Name": "Managing Data as a Product",
-    "Extension": "pdf",
-    "Description": "Focuses on shifting from treating data as a byproduct to treating it as a first-class product. It describes the design, lifecycle, ownership, and operation of modular data products, how to transition from monolithic data platforms, and how to scale product-oriented data architectures. :contentReference[oaicite:2]{index=2}"
-  },
-  {
-    "Name": "Building Modern Data Applications Using Databricks Lakehouse",
-    "Extension": "pdf",
-    "Description": "Covers how to build data applications using the Databricks Lakehouse architecture: data ingestion, transformation, streaming, batch, Delta Lake, ML workflows, governance, and deployment patterns. (Typical publisher synopsis) "
-  },
-  {
-    "Name": "Platform Engineering for Architects",
-    "Extension": "pdf",
-    "Description": "Guides architects on designing internal developer platforms, abstractions, automation, service meshes, platform governance, observability, and trade-offs between flexibility and control. (Standard positioning) "
-  },
-  {
-    "Name": "Data Engineering Best Practices",
-    "Extension": "pdf",
-    "Description": "A compendium of patterns, practices, and architectural guidelines to build robust data pipelines and systems: ingestion, modeling, transformation, observability, error handling, scalability, and modern tooling. (General scope) "
-  },
-  {
-    "Name": "Modern Network Observability",
-    "Extension": "pdf",
-    "Description": "A hands-on guide to building a network observability stack using open source tools like Telegraf, Prometheus, Grafana. This book shows how to collect, normalize, visualize network data, build dashboards, alerts, automate responses, and even apply ML/AI techniques to network ops. :contentReference[oaicite:3]{index=3}"
-  },
-    {
-    "Name": "Amazon DynamoDB - The Definitive Guide",
-    "Extension": "pdf",
-    "Description": "A deep dive into DynamoDB, the fully managed, serverless, NoSQL database from AWS. It covers internal architecture, performance tuning, data modeling, capacity modes, indexes, transactions, caching (DAX), global tables, analytics, and real-world integration with other AWS services. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Name": "Edge Computing Patterns for Solution Architects",
-    "Extension": "pdf",
-    "Description": "A pattern catalog and architectural reference for designing edge computing systems. It discusses trade-offs, event processing, federated architectures, offline/latency strategies, resource constraints, and use cases where compute must live close to data or users."
-  },
-  {
-    "Name": "Efficient Cloud FinOps",
-    "Extension": "pdf",
-    "Description": "A guide to cloud financial operations (FinOps) with a focus on efficiency, cost control, visibility, budgeting, rightsizing, and optimization in cloud infrastructure. It covers methods, best practices, governance models, tooling, and metrics to align cost with business value."
-  },
-  {
-    "Name": "Transformers for Natural Language Processing and Computer Vision",
-    "Extension": "pdf",
-    "Description": "An advanced technical book covering the transformer architecture in depth, exploring its applications in NLP and computer vision. Topics include attention mechanisms, transformer variants (ViT, BERT, GPT), architecture scaling, multimodal models, fine-tuning, and deployment."
-  },
-  {
-    "Name": "Edge Computing with Amazon Web Services",
-    "Extension": "pdf",
-    "Description": "A guide to designing and deploying edge computing solutions using AWS services like AWS IoT Greengrass, AWS Lambda@Edge, AWS Wavelength, and Local Zones. It covers architecture patterns, resource constraints, latency management, security, and hybrid operations."
-  },
-  {
-    "Name": "JavaScript Design Patterns",
-    "Extension": "pdf",
-    "Description": "A reference book on classic and modern design patterns in JavaScript/TypeScript. It explains creational, structural, behavioral, and concurrency patterns, shows how to apply them in modern frameworks, and discusses trade-offs and maintainability."
-  },
-  {
-    "Name": "Identity and Access Management for Cloud and DevOps Engineers",
-    "Extension": "pdf",
-    "Description": "A specialized guide to identity & access control in cloud and DevOps contexts. Covers IAM design, roles, policies, least privilege, federation, fine-grained permissions, secrets management, multi-tenant models, and auditing."
-  },
-  {
-    "Name": "The Definitive Guide to OpenSearch",
-    "Extension": "pdf",
-    "Description": "A comprehensive reference for OpenSearch (the open-source fork of Elasticsearch). It includes installation, configuration, query design, indexing, security, performance tuning, dashboards, and use cases in analytics and search. :contentReference[oaicite:1]{index=1}"
-  },
-    {
-    "Name": "AWS for Solutions Architects",
-    "Extension": "pdf",
-    "Description": "A guide for architects, developers, and operations engineers to design, scale, and secure AWS systems. It discusses architectural patterns, selecting appropriate services, cost optimization, DevOps, containers, networking, hybrid deployments, and real-world scenarios. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Name": "Amazon Redshift Cookbook",
-    "Extension": "pdf",
-    "Description": "A collection of practical recipes and use cases for working with Amazon Redshift: data warehouse design, loading and transforming data, performance tuning, security, concurrency scaling, and integrating Redshift with analytical and BI tools. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "Name": "Building Agentic AI Systems",
-    "Extension": "pdf",
-    "Description": "A detailed walkthrough for designing and deploying autonomous AI systems using large language models. Covers architectures of agents, orchestration patterns (coordinator, worker, delegator), reasoning, planning, tool integration, error recovery, and productionization. :contentReference[oaicite:2]{index=2}"
-  },
-  {
-    "Name": "Sustainable Cloud Development",
-    "Extension": "pdf",
-    "Description": "A book combining best practices and case studies to help teams build cloud systems in an environmentally responsible way. Guides on optimizing energy use, carbon footprint, workload efficiency, resource usage, and aligning cloud operations with sustainability goals. :contentReference[oaicite:3]{index=3}"
-  },
-  {
-    "Name": "Cloud Native Anti-Patterns",
-    "Extension": "pdf",
-    "Description": "A catalog of common design and operational pitfalls in cloud native systems, with anti-patterns and how to avoid or remediate them. Topics likely include overuse of serverless, monolithic services masquerading as microservices, poor observability, coupling, and misuse of cloud abstractions. (General description, based on typical anti-patterns literature.)"
-  },
-  {
-    "Name": "TypeScript 5 Design Patterns and Best Practices",
-    "Extension": "pdf",
-    "Description": "A modern guide to applying design patterns in TypeScript (version 5) and writing maintainable, scalable code. It covers creational, structural, behavioral, reactive, and concurrency patterns, with TypeScript idioms and best practices for large codebases."
-  },
-  {
-    "Name": "AWS Certified Advanced Networking – Specialty (ANS-C01) Certification Guide",
-    "Extension": "pdf",
-    "Description": "A preparation guide for AWS’s advanced networking specialty exam (ANS-C01). It covers designing, implementing, and maintaining complex networking solutions on AWS, including hybrid connectivity, routing, transit networks, performance optimization, and security."
-  },
-  {
-    "Name": "AWS for System Administrators",
-    "Extension": "pdf",
-    "Description": "A book aimed at system administrators and operations engineers, teaching how to manage, monitor, and maintain AWS infrastructure. Topics include provisioning, configuration management, IAM, monitoring, automation (CLI, SDKs, infrastructure as code), backup & recovery, and security operations."
-  },
-  {
-    "Name": "Service Integration and Management (SIAM) Foundation Body of Knowledge (BoK)",
-    "Extension": "pdf",
-    "Description": "The SIAM Foundation BoK introduces principles and practices of Service Integration and Management. It explains roles, governance, processes, and operating models for managing services from multiple suppliers in a coordinated way, aligned with ITSM frameworks like ITIL."
-  },
-  {
-    "Name": "Service Integration and Management (SIAM) Professional Body of Knowledge (BoK)",
-    "Extension": "pdf",
-    "Description": "The SIAM Professional BoK provides advanced coverage for practitioners. It expands on governance, contracts, cross-supplier collaboration, accountability, measurement, and risk management, aimed at professionals designing or operating SIAM ecosystems."
-  },
-  {
-    "Name": "Integrated Measurement - KPIs and Metrics for ITSM",
-    "Extension": "pdf",
-    "Description": "Guides organizations in selecting, defining, and implementing KPIs and metrics for IT service management. Covers measurement frameworks, dashboards, business alignment, and integrating metrics across ITIL processes for continual service improvement."
-  },
-  {
-    "Name": "ITIL 4 Drive Stakeholder Value (DSV)",
-    "Extension": "pdf",
-    "Description": "One of the official ITIL 4 Managing Professional books, focusing on engaging stakeholders, customer journeys, SLAs/XLAs, and co-creating value. Helps professionals improve service relationships and deliver business outcomes."
-  },
-  {
-    "Name": "ITIL 4 Create, Deliver and Support (CDS)",
-    "Extension": "pdf",
-    "Description": "An ITIL 4 module that covers building, deploying, and running services. It includes practices for service design, software development, delivery, and support to ensure efficient end-to-end value streams."
-  },
-  {
-    "Name": "ITIL 4 High-Velocity IT (HVIT)",
-    "Extension": "pdf",
-    "Description": "An ITIL 4 Managing Professional module that explores digital transformation, agility, DevOps, Lean, and resilience. Aimed at organizations running high-speed digital environments where rapid change is common."
-  },
-  {
-    "Name": "ITIL 4 Direct, Plan and Improve (DPI)",
-    "Extension": "pdf",
-    "Description": "Part of ITIL 4 Managing Professional and Strategic Leader tracks, focusing on governance, strategy, continual improvement, measurement, and aligning IT services with business goals."
-  },
-  {
-    "Name": "An Education in Service Management",
-    "Extension": "pdf",
-    "Description": "A book providing foundational understanding of service management concepts, practices, and education paths. It connects ITSM frameworks, organizational design, and professional development in the service management discipline."
-  },
-  {
-    "Name": "Identity and Access Management for Cloud and DevOps Engineers",
-    "Extension": "pdf",
-    "Description": "A repeat entry. It is a guide for IAM design in cloud and DevOps contexts, with coverage of policies, roles, federation, least privilege, secrets management, and auditing."
-  },
-  {
-    "Name": "Linux for Networking Professionals",
-    "Extension": "pdf",
-    "Description": "Teaches networking professionals to use Linux for network configuration, troubleshooting, monitoring, and automation. Covers core commands, routing, firewalling, services, and integration with modern networks."
-  },
-  {
-    "Name": "Mastering Go for DevOps",
-    "Extension": "pdf",
-    "Description": "Shows how to use the Go programming language for DevOps automation. Includes creating CLIs, working with APIs, concurrency for automation tasks, infrastructure tooling, CI/CD integration, and containerization."
-  },
-  {
-    "Name": "Network Automation Cookbook",
-    "Extension": "pdf",
-    "Description": "Provides practical recipes to automate network configuration, management, and monitoring. Uses Python, Ansible, and other tools to automate Cisco, Juniper, and cloud networking environments."
-  },
-  {
-    "Name": "GitHub Foundations Certification Guide",
-    "Extension": "pdf",
-    "Description": "Prepares readers for the GitHub Foundations certification. Covers version control basics, GitHub workflows, pull requests, issues, GitHub Actions, security, and collaboration features."
-  },
-   {
-    "Name": "Cloud Security Handbook",
-    "Extension": "pdf",
-    "Description": "A guide to embedding security best practices across cloud infrastructure components in AWS, Azure, and GCP. Covers the shared responsibility model, securing compute, storage, networking, identity management, encryption, threat detection, auditing, compliance, hybrid and multi-cloud scenarios. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Name": "Security Automation with Python",
-    "Extension": "pdf",
-    "Description": "Provides practical examples and patterns to automate security operations using Python: scripting vulnerability scans, firewall rule updates, threat intelligence, incident response, and integrating Python workflows into security pipelines. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "Name": "Scalable Application Development with NestJS",
-    "Extension": "pdf",
-    "Description": "This book (not widely indexed) likely covers how to architect and build scalable, maintainable server-side applications using the NestJS (Node.js/TypeScript) framework. Topics typically include modular architecture, dependency injection, microservices, security, testing, performance, and integration with databases or messaging systems."
-  },
-  {
-    "Name": "CI/CD Design Patterns",
-    "Extension": "pdf",
-    "Description": "A pattern catalog for designing CI/CD pipelines and platform architectures. It discusses reusable pipeline structures, branching strategies, fault tolerance, canary/deployment patterns, feedback loops, security in pipelines (DevSecOps), and extensibility across teams."
-  },
-  {
-    "Name": "Building Resilient Architectures on AWS",
-    "Extension": "pdf",
-    "Description": "See earlier entry: focuses on building fault-tolerant, scalable, resilient systems on AWS via multi-region design, failure scenarios, chaos engineering, graceful degradation, monitoring, backup/recovery, and architectural patterns for resilience."
-  },
-  {
-    "Name": "Mastering OpenStack",
-    "Extension": "pdf",
-    "Description": "A deep dive into OpenStack cloud infrastructure: covers installation, configuration, deployments, networking (Neutron), storage (Cinder, Swift), compute, orchestration, scaling, multi-tenant isolation, security, and operations of OpenStack in production."
-  },
-  {
-    "Name": "Computer Jargon - The Illustrated Glossary of Basic Computer Terminology",
-    "Extension": "pdf",
-    "Description": "An illustrated glossary explaining basic computing terms in plain language. Useful for newcomers who want to understand technical terms (hardware, networking, OS, software, security, cloud) with visuals and simple definitions."
-  },
-  {
-    "Name": "AWS Cloud Projects",
-    "Extension": "pdf",
-    "Description": "A collection of hands-on projects you can build on AWS to deepen architectural understanding. Likely includes infrastructure as code, serverless systems, microservices, integrations, monitoring, security, and end-to-end deployment patterns."
-  },
-  {
-    "Name": "Modern Network Observability",
-    "Extension": "pdf",
-    "Description": "Hands-on guide to building a network observability stack using open source tools (e.g. Telegraf, Prometheus, Grafana). Covers data collection, normalization, dashboards, alerting, automation, and applying ML/AI for enhanced insight. :contentReference[oaicite:2]{index=2}"
-  },
-    {
-    "Name": "Continuous Testing, Quality, Security, and Feedback",
-    "Extension": "pdf",
-    "Description": "A step-by-step guide to embedding continuous testing, quality, security, and feedback practices into DevOps, DevSecOps, and SRE workflows. Covers maturity models, tool selection, gap assessments, integration of AI/ML in testing, and transformation roadmaps. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Name": "Observability with Grafana",
-    "Extension": "pdf",
-    "Description": "Teaches observability concepts and how to use the Grafana (LGTM + related) stack in practice. Covers instrumentation, dashboarding, alerts, SLI/SLOs, integration with cloud platforms, automation, and best practices in production systems. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "Name": "CI/CD Design Patterns",
-    "Extension": "pdf",
-    "Description": "A catalog of reusable patterns and architectural approaches for designing robust continuous integration / continuous delivery pipelines. Topics include branching strategies, environment promotion, rollback, security in pipelines, and cross-team scalability of CI/CD systems."
-  },
-  {
-    "Name": "AWS Certified Developer Associate Certification and Beyond",
-    "Extension": "pdf",
-    "Description": "A guide for becoming AWS Certified Developer (or preparing for that exam) and then using the knowledge in real development work: covers AWS SDKs, serverless, monitoring, security, best practices, and extending skills beyond certification."
-  },
-  {
-    "Name": "NGINX HTTP Server",
-    "Extension": "pdf",
-    "Description": "A technical reference for the NGINX web server, covering configuration, modules, performance tuning, routing, load balancing, caching, security (TLS), reverse proxy setups, and deployment in cloud or container environments."
-  },
-  {
-    "Name": "Embracing DevOps Release Management",
-    "Extension": "pdf",
-    "Description": "Focuses on integrating release management in a DevOps environment. It covers deployment strategies, release coordination, feature flags, rollback techniques, governance without slowing velocity, and bridging DevOps with existing ITSM where needed."
-  },
-  {
-    "Name": "AWS Certified Security – Specialty (SCS-C02) Exam Guide",
-    "Extension": "pdf",
-    "Description": "A prep book for the AWS Security Specialty exam. Topics include IAM, KMS, network/perimeter security, incident response, logging & monitoring, threat detection, encryption, compliance, and secure architecture in AWS."
-  },
-  {
-    "Name": "Solutions Architect's Handbook",
-    "Extension": "pdf",
-    "Description": "A guide for solutions architects on designing large-scale systems: covers architectural patterns, cloud migrations, trade-offs, resiliency, operational excellence, and emerging trends. (Already described earlier) "
-  },
-  {
-    "Name": "Edge Computing with Amazon Web Services",
-    "Extension": "pdf",
-    "Description": "Instruction on building edge computing solutions using AWS’s edge offerings (e.g. Lambda@Edge, Greengrass, Wavelength), handling constraints like latency, intermittent connectivity, data locality, and integration with cloud backends."
-  },
-  {
-    "Name": "Efficient Cloud FinOps",
-    "Extension": "pdf",
-    "Description": "A guide to implementing financial operations in cloud — cost accountability, usage optimization, monitoring, governance, budgeting, and aligning cloud spending with business outcomes. (Described earlier) "
-  },
-  {
-    "Name": "The Cloud Computing Journey",
-    "Extension": "pdf",
-    "Description": "An overview of the evolution of cloud computing: models (IaaS, PaaS, SaaS), migration strategies, adoption challenges, technological trends (serverless, edge, hybrid), governance, and future directions."
-  },
-  {
-    "Name": "DevOps for Databases",
-    "Extension": "pdf",
-    "Description": "Explores how to apply DevOps principles to database systems: versioning, migrations, continuous delivery, rollback strategies, testing, schema management, replication, and integration with CI/CD pipelines."
+    "Description": ""
   }
 ]
