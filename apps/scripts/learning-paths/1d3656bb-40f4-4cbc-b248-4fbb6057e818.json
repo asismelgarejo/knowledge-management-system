@@ -1,31 +1,29 @@
-[
-  {
-    "title": "Hands-on Guide: Key verbs",
-    "resources": {
-      "id": "68d9c125743e8ad7e745dcf0",
-      "title": "Key verbs",
-      "subcontent": [
-        {
-          "id": "68d9c125743e8ad7e745dcf1",
-          "title": "Make, do and take: uses and phrases"
-        },
-        {
-          "id": "68d9c125743e8ad7e745dcf2",
-          "title": "Key verbs: give, keep and miss"
-        },
-        {
-          "id": "68d9c125743e8ad7e745dcf3",
-          "title": "Get: uses, phrases and phrasal verbs"
-        },
-        {
-          "id": "68d9c125743e8ad7e745dcf4",
-          "title": "Go: meanings and expressions"
-        },
-        {
-          "id": "68d9c125743e8ad7e745dcf5",
-          "title": "The senses"
-        }
-      ]
-    }
+{
+  "title": "Hands-on Guide: Key verbs",
+  "resources": {
+    "id": "68d9c125743e8ad7e745dcf0",
+    "title": "Key verbs",
+    "subcontent": [
+      {
+        "id": "68d9c125743e8ad7e745dcf1",
+        "title": "Make, do and take: uses and phrases"
+      },
+      {
+        "id": "68d9c125743e8ad7e745dcf2",
+        "title": "Key verbs: give, keep and miss"
+      },
+      {
+        "id": "68d9c125743e8ad7e745dcf3",
+        "title": "Get: uses, phrases and phrasal verbs"
+      },
+      {
+        "id": "68d9c125743e8ad7e745dcf4",
+        "title": "Go: meanings and expressions"
+      },
+      {
+        "id": "68d9c125743e8ad7e745dcf5",
+        "title": "The senses"
+      }
+    ]
   }
-]
+}

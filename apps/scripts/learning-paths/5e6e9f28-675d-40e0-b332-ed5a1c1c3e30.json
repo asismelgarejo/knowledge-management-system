@@ -1,0 +1,27 @@
+{
+  "title": "Road to DVA-C02",
+  "resources": [
+    {
+      "id": "68ddd62eb2798eb5dc58cce5",
+      "title": "AWS Certified Developer - Associate (DVA-C02) Exam Guide",
+      "subcontent": [
+        {
+          "id": "68ddd62eb2798eb5dc58cce6",
+          "title": "Introduction"
+        },
+        {
+          "id": "68ddd62eb2798eb5dc58cce7",
+          "title": "Target candidate description"
+        },
+        {
+          "id": "68ddd62eb2798eb5dc58cce8",
+          "title": "Exam content"
+        },
+        {
+          "id": "68ddd62eb2798eb5dc58cce9",
+          "title": "Appendix"
+        }
+      ]
+    }
+  ]
+}

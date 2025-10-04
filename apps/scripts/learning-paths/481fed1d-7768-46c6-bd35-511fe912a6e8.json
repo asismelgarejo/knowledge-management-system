@@ -1,0 +1,59 @@
+{
+  "title": "Hands-On Guide: Deploying a Backend with Amazon DocumentDB and AWS CDK",
+  "resources": {
+    "id": "68d9c125743e8ad7e745db3c",
+    "title": "What is Amazon DocumentDB",
+    "subcontent": [
+      {
+        "id": "68d9c125743e8ad7e745db3d",
+        "title": "How it works"
+      },
+      {
+        "id": "68d9c125743e8ad7e745db3e",
+        "title": "What is a document database?",
+        "subcontent": [
+          {
+            "id": "68d9c125743e8ad7e745db3f",
+            "title": "Use cases"
+          },
+          {
+            "id": "68d9c125743e8ad7e745db40",
+            "title": "Understanding documents"
+          },
+          {
+            "id": "68d9c125743e8ad7e745db41",
+            "title": "Working with documents"
+          }
+        ]
+      },
+      {
+        "id": "68d9c125743e8ad7e745db42",
+        "title": "Get started guide"
+      },
+      {
+        "id": "68d9c125743e8ad7e745db43",
+        "title": "Quick start using AWS CloudFormation"
+      },
+      {
+        "id": "68d9c125743e8ad7e745db44",
+        "title": "MongoDB compatibility"
+      },
+      {
+        "id": "68d9c125743e8ad7e745db45",
+        "title": "Transactions"
+      },
+      {
+        "id": "68d9c125743e8ad7e745db46",
+        "title": "Best practices"
+      },
+      {
+        "id": "68d9c125743e8ad7e745db47",
+        "title": "Functional differences with MongoDB"
+      },
+      {
+        "id": "68d9c125743e8ad7e745db48",
+        "title": "Supported MongoDB APIs, operations, and data types"
+      }
+    ]
+  }
+}

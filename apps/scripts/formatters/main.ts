@@ -43,7 +43,11 @@ const createNewContentArray = (contents: Content[]): ContentWithId[] =>
 
 export const main = () => {
   // List of input files
-  const inputFiles = ["6b126b39-79b4-40b6-a663-8495cb1fdfb8.in.json", "0385a601-6762-4062-afd0-eced6fe14fae.in.json"]; // <- agrega aquí todos los archivos que quieras procesar
+  const inputFiles = [
+    "6b126b39-79b4-40b6-a663-8495cb1fdfb8.in.json", 
+    "0385a601-6762-4062-afd0-eced6fe14fae.in.json",
+    "c0dc9340-8c50-4c2a-bf6f-37792b06b8ff.in.json"
+  ]; // <- agrega aquí todos los archivos que quieras procesar
 
   inputFiles.forEach((fileName) => {
     const inputPath = path.join(__dirname, fileName);
